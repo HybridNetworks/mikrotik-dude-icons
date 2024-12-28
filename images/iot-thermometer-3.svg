@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="uuid-19aada01-f43d-46f7-a22d-6b850d25e166" data-name="uuid-19907d1f-9315-477d-b7ba-91ae3e2acc9a" xmlns="http://www.w3.org/2000/svg" width="256" height="256" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256 256">
+  <defs>
+    <style>
+      .uuid-8efc184a-fe92-4de8-8e95-ae7f35bfa8b3 {
+        stroke: #ef4444;
+        stroke-miterlimit: 10;
+        stroke-width: 24px;
+      }
+
+      .uuid-8efc184a-fe92-4de8-8e95-ae7f35bfa8b3, .uuid-ce1fb05f-ee34-426d-bdee-45da0e68609b, .uuid-ea3c6df3-e640-411d-a936-bef0bfc03307 {
+        fill: none;
+      }
+
+      .uuid-8efc184a-fe92-4de8-8e95-ae7f35bfa8b3, .uuid-ea3c6df3-e640-411d-a936-bef0bfc03307 {
+        stroke-linecap: round;
+      }
+
+      .uuid-56aa2bfe-b72a-44ca-ac0f-4f47d51280a2 {
+        clip-path: url(#uuid-a482e9ff-8b28-4d46-bee5-746f5b05ae66);
+      }
+
+      .uuid-48b9f76a-ef78-4986-8f62-5ced9323580c {
+        fill: #ef4444;
+      }
+
+      .uuid-ea3c6df3-e640-411d-a936-bef0bfc03307 {
+        stroke: #cbd5e1;
+        stroke-linejoin: round;
+        stroke-width: 6px;
+      }
+
+      .uuid-d69c60d2-5414-450b-a15f-a23cb7938ee1 {
+        clip-path: url(#uuid-70c9df13-1d3b-4996-b7b7-31ea3777a735);
+      }
+    </style>
+    <clipPath id="uuid-70c9df13-1d3b-4996-b7b7-31ea3777a735">
+      <rect class="uuid-ce1fb05f-ee34-426d-bdee-45da0e68609b" x="0" width="118" height="278"/>
+    </clipPath>
+    <symbol id="uuid-43b32ef6-4d2b-44da-b2fa-900b6b42a26e" data-name="b" viewBox="0 0 118 278">
+      <g>
+        <use width="72" height="168" transform="translate(23 23)" xlink:href="#uuid-010f635c-e419-4038-9739-9bc0991d7c0b"/>
+        <g class="uuid-d69c60d2-5414-450b-a15f-a23cb7938ee1">
+          <use width="118" height="277.5" xlink:href="#uuid-00fbc13c-d838-4e53-917a-d4412579f762"/>
+        </g>
+      </g>
+    </symbol>
+    <symbol id="uuid-010f635c-e419-4038-9739-9bc0991d7c0b" data-name="c" viewBox="0 0 72 168">
+      <g>
+        <circle class="uuid-48b9f76a-ef78-4986-8f62-5ced9323580c" cx="36" cy="36" r="36"/>
+        <path class="uuid-8efc184a-fe92-4de8-8e95-ae7f35bfa8b3" d="M36,156V36"/>
+      </g>
+    </symbol>
+    <symbol id="uuid-00fbc13c-d838-4e53-917a-d4412579f762" data-name="d" viewBox="0 0 118 277.5">
+      <path class="uuid-ea3c6df3-e640-411d-a936-bef0bfc03307" d="M115,59.8c0-31.4-25-56.8-56-56.8S3,28.4,3,59.8c-.04,18.51,8.91,35.88,24,46.6v136.1c0,17.67,14.33,32,32,32s32-14.33,32-32V106.5c15.12-10.74,24.07-28.16,24-46.7ZM63,195h28M63,227h28M63,163h28"/>
+    </symbol>
+    <clipPath id="uuid-a482e9ff-8b28-4d46-bee5-746f5b05ae66">
+      <rect class="uuid-ce1fb05f-ee34-426d-bdee-45da0e68609b" x="82.31" y="18" width="93.38" height="220"/>
+    </clipPath>
+  </defs>
+  <rect class="uuid-ce1fb05f-ee34-426d-bdee-45da0e68609b" width="256" height="256"/>
+  <g class="uuid-56aa2bfe-b72a-44ca-ac0f-4f47d51280a2">
+    <use width="118" height="278" transform="translate(81.52 237.6) scale(.79 -.79)" xlink:href="#uuid-43b32ef6-4d2b-44da-b2fa-900b6b42a26e"/>
+  </g>
+</svg>
