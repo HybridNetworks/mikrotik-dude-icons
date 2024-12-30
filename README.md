@@ -27,6 +27,9 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 | `software-openvpn-logo-3` | <img src="./images/software-openvpn-logo-3.svg" width="64">     |
 | `software-openvpn-logo-4` | <img src="./images/software-openvpn-logo-4.svg" width="64">     |
 | `software-openvpn-logo-5` | <img src="./images/software-openvpn-logo-5.svg" width="64">     |
+| `ui-ubiquiti-logo-1`      | <img src="./images/ui-ubiquiti-logo-1.svg" width="64">          |
+| `ui-ubiquiti-logo-2`      | <img src="./images/ui-ubiquiti-logo-2.svg" width="64">          |
+| `ui-ubiquiti-logo-3`      | <img src="./images/ui-ubiquiti-logo-3.svg" width="64">          |
 | `ui-unifi-uap-1`          | <img src="./images/ui-unifi-uap-1.svg" width="64">              |
 | `ui-unifi-uap-2`          | <img src="./images/ui-unifi-uap-2.svg" width="64">              |
 | `ui-unifi-uap-3`          | <img src="./images/ui-unifi-uap-3.svg" width="64">              |

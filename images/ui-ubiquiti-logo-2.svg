@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="uuid-8491627b-19fb-425a-bf5e-14d31e70a729" data-name="uuid-19907d1f-9315-477d-b7ba-91ae3e2acc9a" xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <style>
+      .uuid-a29c246f-98ff-4a32-9c05-ed3b3fcb6184 {
+        fill-rule: evenodd;
+      }
+
+      .uuid-a29c246f-98ff-4a32-9c05-ed3b3fcb6184, .uuid-4cecdb1e-8b0a-41e9-b5b9-9c488bb98fae {
+        fill: #39a2e1;
+      }
+
+      .uuid-91383927-4e74-4711-b12c-d087c1fb628b {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <rect class="uuid-91383927-4e74-4711-b12c-d087c1fb628b" width="256" height="256"/>
+  <rect class="uuid-4cecdb1e-8b0a-41e9-b5b9-9c488bb98fae" x="31.41" y="18" width="10.74" height="10.73"/>
+  <rect class="uuid-4cecdb1e-8b0a-41e9-b5b9-9c488bb98fae" x="31.41" y="50.17" width="10.74" height="69.76"/>
+  <rect class="uuid-4cecdb1e-8b0a-41e9-b5b9-9c488bb98fae" x="52.88" y="82.38" width="10.74" height="10.73"/>
+  <rect class="uuid-4cecdb1e-8b0a-41e9-b5b9-9c488bb98fae" x="52.88" y="44.82" width="10.74" height="10.73"/>
+  <rect class="uuid-4cecdb1e-8b0a-41e9-b5b9-9c488bb98fae" x="63.61" y="34.09" width="10.74" height="10.73"/>
+  <rect class="uuid-4cecdb1e-8b0a-41e9-b5b9-9c488bb98fae" x="63.62" y="60.92" width="10.74" height="10.73"/>
+  <rect class="uuid-4cecdb1e-8b0a-41e9-b5b9-9c488bb98fae" x="74.34" y="50.19" width="10.74" height="10.73"/>
+  <rect class="uuid-4cecdb1e-8b0a-41e9-b5b9-9c488bb98fae" x="52.88" y="103.85" width="10.74" height="16.1"/>
+  <rect class="uuid-4cecdb1e-8b0a-41e9-b5b9-9c488bb98fae" x="74.35" y="87.75" width="10.74" height="32.2"/>
+  <path class="uuid-a29c246f-98ff-4a32-9c05-ed3b3fcb6184" d="M170.93,185.08V60.93c0-22.9,21.46-42.93,53.66-42.93v104.22l-9.66,19.88c-11.13,22.91-26.57,36.51-44,42.98Z" marker-end="none" marker-start="none"/>
+  <path class="uuid-a29c246f-98ff-4a32-9c05-ed3b3fcb6184" d="M145.26,236.91l-11.16-7.73c-16.84-11.65-29.88-25.56-35.41-40.31,13.22,7.47,29.28,11.57,45.41,11.57,32.24,0,62.12-15.86,80.49-53.66,0,45.16-27.23,83.28-79.32,90.12Z" marker-end="none" marker-start="none"/>
+  <path class="uuid-a29c246f-98ff-4a32-9c05-ed3b3fcb6184" d="M85.07,173.61v-53.66l-5.37-5.37-5.37,5.37v10.73h-10.73v-10.73l-5.37-5.37-5.37,5.37h-10.73l-5.37-5.37-5.37,5.37v32.2c0,43.07,32.3,85.85,96.59,85.85-23.33-16.14-42.93-38.6-42.93-64.39Z" marker-end="none" marker-start="none"/>
+</svg>
