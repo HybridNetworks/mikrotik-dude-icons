@@ -29,6 +29,9 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 | `os-vyos-logo-2`          | <img src="./images/os-vyos-logo-2.svg" width="64">              |
 | `os-vyos-logo-3`          | <img src="./images/os-vyos-logo-3.svg" width="64">              |
 | `os-vyos-logo-4`          | <img src="./images/os-vyos-logo-4.svg" width="64">              |
+| `os-windows-logo-1`       | <img src="./images/os-windows-logo-1.svg" width="64">           |
+| `os-windows-logo-2`       | <img src="./images/os-windows-logo-2.svg" width="64">           |
+| `os-windows-logo-3`       | <img src="./images/os-windows-logo-3.svg" width="64">           |
 | `software-openvpn-logo-1` | <img src="./images/software-openvpn-logo-1.svg" width="64">     |
 | `software-openvpn-logo-2` | <img src="./images/software-openvpn-logo-2.svg" width="64">     |
 | `software-openvpn-logo-3` | <img src="./images/software-openvpn-logo-3.svg" width="64">     |
