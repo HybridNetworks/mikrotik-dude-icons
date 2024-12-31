@@ -2,6 +2,11 @@
 
 <h3>NOTE: To keep icons consistent and to ensure The Dude support, we don't accept pull requests for icon submissions. If you would like an icon added, please open an issue.<h3>
 
+# Example
+
+<p align="center"><img align="center" src="./.github/example-dark.png#gh-dark-mode-only"/></p>
+<p align="center"><img align="center" src="./.github/example-light.png#gh-light-mode-only"/></p>
+
 # Icons List
 
 Here's a list of all the icons currently supported. Feel free to open an issue to suggest icons to add!
@@ -16,6 +21,8 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 | `iot-thermometer-4`       | <img src="./images/iot-thermometer-4.svg" width="64">           |
 | `os-mikrotik-logo-1`      | <img src="./images/os-mikrotik-logo-1.svg" width="64">          |
 | `os-mikrotik-logo-2`      | <img src="./images/os-mikrotik-logo-2.svg" width="64">          |
+| `os-proxmox-1`            | <img src="./images/os-proxmox-1.svg" width="64">                |
+| `os-proxmox-2`            | <img src="./images/os-proxmox-2.svg" width="64">                |
 | `os-ubuntu-logo-1`        | <img src="./images/os-ubuntu-logo-1.svg" width="64">            |
 | `os-ubuntu-logo-2`        | <img src="./images/os-ubuntu-logo-2.svg" width="64">            |
 | `os-vyos-logo-1`          | <img src="./images/os-vyos-logo-1.svg" width="64">              |
