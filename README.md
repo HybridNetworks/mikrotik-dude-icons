@@ -74,3 +74,16 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 | `isp-telecom-logo-1`      | <img src="./images/isp-telecom-logo-1.svg" width="128">         |
 | `isp-telecom-logo-2`      | <img src="./images/isp-telecom-logo-2.svg" width="128">         |
 
+---
+
+## 💖 Support the Project
+
+Thank you so much already for using my projects! If you want to go a step further and support my open source work, buy me a coffee:
+
+#### Buy a Coffee (International) :point_down:
+
+[![Support in Ko-Fi](https://img.shields.io/badge/Buy%20me%20a%20coffee-in%20Ko--Fi-ff5e5b?style=for-the-badge)](https://ko-fi.com/hybridnetworks)
+
+[![Support in Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-in%20BuyMeaCoffee-ffed00?style=for-the-badge)](https://www.buymeacoffee.com/hybridnetworks)
+
+To support the project directly, feel free to open issues for icon suggestions, or contribute with a pull request!
