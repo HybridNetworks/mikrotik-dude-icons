@@ -32,11 +32,15 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 | `os-windows-logo-1`       | <img src="./images/os-windows-logo-1.svg" width="64">           |
 | `os-windows-logo-2`       | <img src="./images/os-windows-logo-2.svg" width="64">           |
 | `os-windows-logo-3`       | <img src="./images/os-windows-logo-3.svg" width="64">           |
+| `software-grafana-1`      | <img src="./images/software-grafana-1.svg" width="64">          |
 | `software-openvpn-logo-1` | <img src="./images/software-openvpn-logo-1.svg" width="64">     |
 | `software-openvpn-logo-2` | <img src="./images/software-openvpn-logo-2.svg" width="64">     |
 | `software-openvpn-logo-3` | <img src="./images/software-openvpn-logo-3.svg" width="64">     |
 | `software-openvpn-logo-4` | <img src="./images/software-openvpn-logo-4.svg" width="64">     |
 | `software-openvpn-logo-5` | <img src="./images/software-openvpn-logo-5.svg" width="64">     |
+| `software-python-1`       | <img src="./images/software-python-1.svg" width="64">           |
+| `software-sap-1`          | <img src="./images/software-sap-1.svg" width="64">              |
+| `software-zabbix-1`       | <img src="./images/software-zabbix-1.svg" width="64">           |
 | `ui-lbe-1`                | <img src="./images/ui-lbe-1.svg" width="64">                    |
 | `ui-lbe-2`                | <img src="./images/ui-lbe-2.svg" width="64">                    |
 | `ui-liteap-1`             | <img src="./images/ui-liteap-1.svg" width="64">                 |
