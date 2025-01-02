@@ -52,6 +52,8 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 | `logo-zabbix-1`           | <img src="./images/logo-zabbix-1.svg" width="64">               |
 | `os-altlinux-1`           | <img src="./images/os-altlinux-1.svg" width="64">               |
 | `os-debian-1`             | <img src="./images/os-debian-1.svg" width="64">                 |
+| `os-lubuntu-1`            | <img src="./images/os-lubuntu-1.svg" width="64">                |
+| `os-lubuntu-2`            | <img src="./images/os-lubuntu-2.svg" width="64">                |
 | `os-kubuntu-1`            | <img src="./images/os-kubuntu-1.svg" width="64">                |
 | `os-proxmox-1`            | <img src="./images/os-proxmox-1.svg" width="64">                |
 | `os-proxmox-2`            | <img src="./images/os-proxmox-2.svg" width="64">                |
