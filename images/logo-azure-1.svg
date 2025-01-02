@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="uuid-19907d1f-9315-477d-b7ba-91ae3e2acc9a"
+   data-name="Capa 1"
+   viewBox="0 0 256 256"
+   version="1.1"
+   sodipodi:docname="logo-azure-1.svg"
+   xml:space="preserve"
+   width="256"
+   height="256"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"><inkscape:page
+       x="0"
+       y="0"
+       width="256"
+       height="256"
+       id="page2"
+       margin="0"
+       bleed="0" /></sodipodi:namedview><defs
+     id="defs2"><style
+       id="style1">
+      .uuid-153302a6-b94e-4ad0-9cfb-43725c5c5610 {
+        fill: url(#uuid-af07a271-8980-47e6-b92b-41550c7dc68a);
+      }
+
+      .uuid-27fce091-ee3a-4889-9199-28416b94f462 {
+        fill: url(#uuid-dc53e15d-e646-4f9b-aab3-d9d8fec05b0e);
+      }
+
+      .uuid-5da2c4a3-8db1-41d9-92d6-1ab0c264b0da {
+        fill: none;
+      }
+
+      .uuid-ed4306aa-b6e6-45eb-bfe3-e4f85f33ea76 {
+        fill: url(#uuid-afdc0b81-5c65-49b4-9e34-1cf3c2f4f8f7);
+      }
+
+      .uuid-03bde706-b35e-416f-8ae5-693e38f68253 {
+        fill: url(#uuid-8e0b3ff5-2b0d-4ede-9e3a-d9af7f50b81e);
+      }
+
+      .uuid-aed79b63-67fc-4862-91f2-2516d39da3fa {
+        fill: url(#uuid-5be9ed93-6987-4def-8687-537049e4e1cf);
+      }
+
+      .uuid-7fb198ab-10f1-4f2d-9a38-66668a795b4d {
+        fill: url(#uuid-ebe94990-143f-470c-b744-73e231e6133d);
+      }
+    </style></defs><rect
+     class="uuid-5da2c4a3-8db1-41d9-92d6-1ab0c264b0da"
+     width="256"
+     height="256"
+     id="rect2"
+     x="0"
+     y="0" /><g
+     id="g8"
+     transform="matrix(7.913994,0,0,7.913994,1.2257301,9.8519836)"><path
+       d="m 14.98,25.994 c 3.57,-0.726 6.518,-1.327 6.552,-1.335 l 0.062,-0.015 -3.37,-4.615 c -1.854,-2.538 -3.37,-4.625 -3.37,-4.637 0,-0.012 3.48,-11.056 3.5,-11.095 0.007,-0.013 2.375,4.694 5.741,11.411 l 5.774,11.521 0.044,0.088 H 19.202 8.491 Z"
+       style="fill:#0089d6"
+       id="path1" /><path
+       d="m 2.125,24.586 c 0,-0.006 1.588,-3.18 3.529,-7.053 L 9.183,10.492 13.3,6.52 C 15.562,4.335 17.419,2.544 17.426,2.541 A 0.914,0.914 0 0 1 17.36,2.733 L 12.89,13.759 8.5,24.589 H 5.311 C 3.56,24.6 2.125,24.593 2.125,24.586 Z"
+       style="fill:#0089d6"
+       id="path2-2" /></g></svg>

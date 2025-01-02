@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="uuid-19907d1f-9315-477d-b7ba-91ae3e2acc9a"
+   data-name="Capa 1"
+   viewBox="0 0 256 256"
+   version="1.1"
+   sodipodi:docname="iot-arduino-1.svg"
+   xml:space="preserve"
+   inkscape:export-filename="iot-arduino-1.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   width="256"
+   height="256"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"><inkscape:page
+       x="0"
+       y="0"
+       width="256"
+       height="256"
+       id="page2"
+       margin="0"
+       bleed="0" /></sodipodi:namedview><defs
+     id="defs2"><style
+       id="style1">
+      .uuid-153302a6-b94e-4ad0-9cfb-43725c5c5610 {
+        fill: url(#uuid-af07a271-8980-47e6-b92b-41550c7dc68a);
+      }
+
+      .uuid-27fce091-ee3a-4889-9199-28416b94f462 {
+        fill: url(#uuid-dc53e15d-e646-4f9b-aab3-d9d8fec05b0e);
+      }
+
+      .uuid-5da2c4a3-8db1-41d9-92d6-1ab0c264b0da {
+        fill: none;
+      }
+
+      .uuid-ed4306aa-b6e6-45eb-bfe3-e4f85f33ea76 {
+        fill: url(#uuid-afdc0b81-5c65-49b4-9e34-1cf3c2f4f8f7);
+      }
+
+      .uuid-03bde706-b35e-416f-8ae5-693e38f68253 {
+        fill: url(#uuid-8e0b3ff5-2b0d-4ede-9e3a-d9af7f50b81e);
+      }
+
+      .uuid-aed79b63-67fc-4862-91f2-2516d39da3fa {
+        fill: url(#uuid-5be9ed93-6987-4def-8687-537049e4e1cf);
+      }
+
+      .uuid-7fb198ab-10f1-4f2d-9a38-66668a795b4d {
+        fill: url(#uuid-ebe94990-143f-470c-b744-73e231e6133d);
+      }
+    </style></defs><rect
+     class="uuid-5da2c4a3-8db1-41d9-92d6-1ab0c264b0da"
+     width="256"
+     height="256"
+     id="rect2"
+     x="0"
+     y="0" /><g
+     style="stroke:#00979c"
+     id="g8"
+     transform="matrix(0.30459228,0,0,0.30459228,18.642422,53.926486)"><g
+       fill="none"
+       id="g3"><path
+         d="M 174,30 C 78.9,22.43 -1,135 38,222 c 38,94.4 181,120 249,44.4 65.9,-64.6 91.3,-164 172,-215 82,-56 214,-3.12 230,96.4 15.6,95.3 -87.1,188 -180,160 -68.7,-15.5 -118,-74.2 -146,-136 -34.5,-59 -79.6,-122 -150,-138 -12.5,-2.84 -25.4,-3.96 -38.2,-3.94 z"
+         stroke-width="59"
+         id="path1-7" /><path
+         d="M 118,165 H 238"
+         stroke-width="25"
+         id="path2" /><path
+         d="M 486,165 H 586 M 535,115 V 215"
+         stroke-width="32"
+         id="path3" /></g><path
+       d="M 84,485 77.6,462 H 37 l -6.6,23 H 8.7 L 43.1,369 h 30.6 l 34.4,116 z M 57.6,390 42.3,444.1 H 72.7 Z M 180,485 c 0,0 -11.7,-27.6 -18.3,-41 -3.83,-5.76 -11.4,-8.02 -18,-7.1 -0.6,15.7 -0.48,48.1 -0.48,48.1 h -21.9 V 369 c 0,0 33,-0.97 49.4,1.2 34.7,3.92 37,54.4 2.13,59.7 6.54,2.6 10.5,8.65 13.3,14.8 l 17.5,36.2 c 1.23,2.48 1.2,4.4 -2.34,4.38 z m -5.42,-82.1 c -0.1,-17.9 -18,-15.9 -31.3,-16 v 32.8 c 15.7,0.53 31,-1.07 31.3,-16.8 z M 302,455 c -10.6,24.5 -33.8,30.2 -55.8,29.8 h -26.9 v -116 l 40.9,0.2 c 50.6,1.65 52.4,56.2 41.7,86.4 z m -28,-61.3 c -10.2,-8.76 -21.4,-6.97 -32.8,-6.97 v 79.7 c 10,0 20.9,0.8 29.4,-5.4 18.1,-11.4 15.8,-54.6 3.35,-67.3 z M 407,442 c 2.17,58.6 -81.5,58.4 -84,12.7 -1.53,-14 -0.27,-28 -0.68,-42 v -44.2 h 21.9 l 0.4,83 c 2.57,22.9 33,20.9 37.6,8.2 4.66,-10.1 2.5,-21.5 2.98,-32.3 v -58.9 h 21.9 V 442 Z m 21,-56 v -17.9 h 73.5 V 386 h -25.6 v 80.4 h 25.6 v 18.1 H 428 v -18.1 h 25.6 V 386 Z m 155,99 -37.6,-84.4 V 485 H 525.5 V 369 h 26.9 l 37.4,83.6 c 0.1,-6 0.04,-83.6 0.04,-83.6 h 19.9 v 116 z m 117,-10 c -24.3,20.9 -66.7,16.3 -75.1,-24.9 -11.5,-62.6 22.4,-98.6 69.6,-77.6 29,16.3 27.4,83.4 5.5,103 z m -29.3,-88.7 c -20.7,-0.55 -23.7,20.6 -24.5,30.8 -0.17,19.3 -1.88,51.4 24.9,50 8.3,0 15.5,-6.02 18.2,-13.7 5.45,-12.1 9.56,-68.1 -18.6,-67.1 z M 676,13.4 v 2.34 h 5.15 v 13.6 h 2.66 v -13.6 h 5.2 V 13.4 Z m 14.8,0 v 15.9 h 2.43 V 15.7 l 4.3,13.6 h 2.4 l 4.1,-13.3 v 13.3 h 2.4 V 13.4 h -3.8 l -3.9,12.7 -4,-12.7 z"
+       fill="#00979c"
+       id="path4" /></g></svg>

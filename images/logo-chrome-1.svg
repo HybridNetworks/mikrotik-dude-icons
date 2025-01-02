@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="uuid-19907d1f-9315-477d-b7ba-91ae3e2acc9a"
+   data-name="Capa 1"
+   viewBox="0 0 256 256"
+   version="1.1"
+   sodipodi:docname="logo-chrome-1.svg"
+   xml:space="preserve"
+   width="256"
+   height="256"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"><inkscape:page
+       x="0"
+       y="0"
+       width="256"
+       height="256"
+       id="page2"
+       margin="0"
+       bleed="0" /></sodipodi:namedview><defs
+     id="defs2"><style
+       id="style1">
+      .uuid-153302a6-b94e-4ad0-9cfb-43725c5c5610 {
+        fill: url(#uuid-af07a271-8980-47e6-b92b-41550c7dc68a);
+      }
+
+      .uuid-27fce091-ee3a-4889-9199-28416b94f462 {
+        fill: url(#uuid-dc53e15d-e646-4f9b-aab3-d9d8fec05b0e);
+      }
+
+      .uuid-5da2c4a3-8db1-41d9-92d6-1ab0c264b0da {
+        fill: none;
+      }
+
+      .uuid-ed4306aa-b6e6-45eb-bfe3-e4f85f33ea76 {
+        fill: url(#uuid-afdc0b81-5c65-49b4-9e34-1cf3c2f4f8f7);
+      }
+
+      .uuid-03bde706-b35e-416f-8ae5-693e38f68253 {
+        fill: url(#uuid-8e0b3ff5-2b0d-4ede-9e3a-d9af7f50b81e);
+      }
+
+      .uuid-aed79b63-67fc-4862-91f2-2516d39da3fa {
+        fill: url(#uuid-5be9ed93-6987-4def-8687-537049e4e1cf);
+      }
+
+      .uuid-7fb198ab-10f1-4f2d-9a38-66668a795b4d {
+        fill: url(#uuid-ebe94990-143f-470c-b744-73e231e6133d);
+      }
+    </style></defs><rect
+     class="uuid-5da2c4a3-8db1-41d9-92d6-1ab0c264b0da"
+     width="256"
+     height="256"
+     id="rect2"
+     x="0"
+     y="0" /><g
+     id="Google_Chrome"
+     transform="matrix(1.718711,0,0,1.718711,18.002496,18.002447)"><rect
+       clip-rule="evenodd"
+       fill="none"
+       fill-rule="evenodd"
+       height="128"
+       width="128"
+       id="rect1"
+       x="0"
+       y="0" /><g
+       id="Google_Chrome_1_"><path
+         clip-rule="evenodd"
+         d="m 15.454,22.297 c 29.752,-34.626 84.917,-27.791 105.54,12.656 -14.517,0.005 -37.25,-0.004 -49.562,0 -8.93,0.003 -14.695,-0.2 -20.939,3.087 -7.34,3.864 -12.879,11.026 -14.812,19.439 z"
+         fill="#ea4335"
+         fill-rule="evenodd"
+         id="path1" /><path
+         clip-rule="evenodd"
+         d="m 42.708,63.998 c 0,11.735 9.542,21.283 21.271,21.283 11.728,0 21.27,-9.547 21.27,-21.283 0,-11.735 -9.542,-21.283 -21.27,-21.283 -11.729,0 -21.271,9.548 -21.271,21.283 z"
+         fill="#4285f4"
+         fill-rule="evenodd"
+         id="path2-5" /><path
+         clip-rule="evenodd"
+         d="M 72.234,91.855 C 60.295,95.403 46.324,91.468 38.671,78.258 32.829,68.175 17.394,41.286 10.379,29.06 c -24.57,37.659 -3.394,88.978 41.212,97.737 z"
+         fill="#34a853"
+         fill-rule="evenodd"
+         id="path3-2" /><path
+         clip-rule="evenodd"
+         d="m 83.737,42.715 c 9.944,9.248 12.11,24.224 5.374,35.836 -5.075,8.749 -21.271,36.085 -29.121,49.322 45.958,2.833 79.461,-42.209 64.328,-85.158 z"
+         fill="#fbbc05"
+         fill-rule="evenodd"
+         id="path4-7" /></g></g></svg>

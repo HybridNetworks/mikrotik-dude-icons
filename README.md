@@ -17,13 +17,21 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 | :-----------------------: | :-------------------------------------------------------------: |
 | `iconpack-background-1`   | <img src="./images/iconpack-background-1.svg" width="64">       |
 | `iconpack-foreground-1`   | <img src="./images/iconpack-foreground-1.svg" width="64">       |
+| `iconpack-folder-1`       | <img src="./images/iconpack-folder-1.svg" width="64">           |
+| `iconpack-folder-share-1` | <img src="./images/iconpack-folder-share-1.svg" width="64">     |
 | `iconpack-terminal-1`     | <img src="./images/iconpack-terminal-1.svg" width="64">         |
+| `iot-arduino-1`           | <img src="./images/iot-arduino-1.svg" width="64">               |
+| `iot-homeassistant-1`     | <img src="./images/iot-homeassistant-1.svg" width="64">         |
+| `iot-raspberry-pi-1`      | <img src="./images/iot-raspberry-pi-1.svg" width="64">          |
 | `iot-thermometer-1`       | <img src="./images/iot-thermometer-1.svg" width="64">           |
 | `iot-thermometer-2`       | <img src="./images/iot-thermometer-2.svg" width="64">           |
 | `iot-thermometer-3`       | <img src="./images/iot-thermometer-3.svg" width="64">           |
 | `iot-thermometer-4`       | <img src="./images/iot-thermometer-4.svg" width="64">           |
+| `logo-azure-1`            | <img src="./images/logo-azure-1.svg" width="64">                |
+| `logo-chrome-1`           | <img src="./images/logo-chrome-1.svg" width="64">               |
 | `logo-fortinet-1`         | <img src="./images/logo-fortinet-1.svg" width="64">             |
 | `logo-fortinet-2`         | <img src="./images/logo-fortinet-2.svg" width="64">             |
+| `logo-google-1`           | <img src="./images/logo-google-1.svg" width="64">               |
 | `logo-grafana-1`          | <img src="./images/logo-grafana-1.svg" width="64">              |
 | `logo-mikrotik-1`         | <img src="./images/logo-mikrotik-1.svg" width="64">             |
 | `logo-mikrotik-2`         | <img src="./images/logo-mikrotik-2.svg" width="64">             |
