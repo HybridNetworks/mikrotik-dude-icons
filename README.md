@@ -15,32 +15,41 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 
 |      Icon ID              |                         Icon                                    |
 | :-----------------------: | :-------------------------------------------------------------: |
+| `iconpack-background-1`   | <img src="./images/iconpack-background-1.svg" width="64">       |
+| `iconpack-foreground-1`   | <img src="./images/iconpack-foreground-1.svg" width="64">       |
+| `iconpack-terminal-1`     | <img src="./images/iconpack-terminal-1.svg" width="64">         |
 | `iot-thermometer-1`       | <img src="./images/iot-thermometer-1.svg" width="64">           |
 | `iot-thermometer-2`       | <img src="./images/iot-thermometer-2.svg" width="64">           |
 | `iot-thermometer-3`       | <img src="./images/iot-thermometer-3.svg" width="64">           |
 | `iot-thermometer-4`       | <img src="./images/iot-thermometer-4.svg" width="64">           |
-| `os-mikrotik-logo-1`      | <img src="./images/os-mikrotik-logo-1.svg" width="64">          |
-| `os-mikrotik-logo-2`      | <img src="./images/os-mikrotik-logo-2.svg" width="64">          |
+| `logo-fortinet-1`         | <img src="./images/logo-fortinet-1.svg" width="64">             |
+| `logo-fortinet-2`         | <img src="./images/logo-fortinet-2.svg" width="64">             |
+| `logo-grafana-1`          | <img src="./images/logo-grafana-1.svg" width="64">              |
+| `logo-mikrotik-1`         | <img src="./images/logo-mikrotik-1.svg" width="64">             |
+| `logo-mikrotik-2`         | <img src="./images/logo-mikrotik-2.svg" width="64">             |
+| `logo-openvpn-1`          | <img src="./images/logo-openvpn-1.svg" width="64">              |
+| `logo-openvpn-2`          | <img src="./images/logo-openvpn-2.svg" width="64">              |
+| `logo-openvpn-3`          | <img src="./images/logo-openvpn-3.svg" width="64">              |
+| `logo-openvpn-4`          | <img src="./images/logo-openvpn-4.svg" width="64">              |
+| `logo-openvpn-5`          | <img src="./images/logo-openvpn-5.svg" width="64">              |
+| `logo-python-1`           | <img src="./images/logo-python-1.svg" width="64">               |
+| `logo-salesforce-1`       | <img src="./images/logo-salesforce-1.svg" width="64">           |
+| `logo-sap-1`              | <img src="./images/logo-sap-1.svg" width="64">                  |
+| `logo-ubiquiti-1`         | <img src="./images/logo-ubiquiti-1.svg" width="64">             |
+| `logo-ubiquiti-2`         | <img src="./images/logo-ubiquiti-2.svg" width="64">             |
+| `logo-ubiquiti-3`         | <img src="./images/logo-ubiquiti-3.svg" width="64">             |
+| `logo-zabbix-1`           | <img src="./images/logo-zabbix-1.svg" width="64">               |
 | `os-proxmox-1`            | <img src="./images/os-proxmox-1.svg" width="64">                |
 | `os-proxmox-2`            | <img src="./images/os-proxmox-2.svg" width="64">                |
-| `os-ubuntu-logo-1`        | <img src="./images/os-ubuntu-logo-1.svg" width="64">            |
-| `os-ubuntu-logo-2`        | <img src="./images/os-ubuntu-logo-2.svg" width="64">            |
-| `os-vyos-logo-1`          | <img src="./images/os-vyos-logo-1.svg" width="64">              |
-| `os-vyos-logo-2`          | <img src="./images/os-vyos-logo-2.svg" width="64">              |
-| `os-vyos-logo-3`          | <img src="./images/os-vyos-logo-3.svg" width="64">              |
-| `os-vyos-logo-4`          | <img src="./images/os-vyos-logo-4.svg" width="64">              |
-| `os-windows-logo-1`       | <img src="./images/os-windows-logo-1.svg" width="64">           |
-| `os-windows-logo-2`       | <img src="./images/os-windows-logo-2.svg" width="64">           |
-| `os-windows-logo-3`       | <img src="./images/os-windows-logo-3.svg" width="64">           |
-| `software-grafana-1`      | <img src="./images/software-grafana-1.svg" width="64">          |
-| `software-openvpn-logo-1` | <img src="./images/software-openvpn-logo-1.svg" width="64">     |
-| `software-openvpn-logo-2` | <img src="./images/software-openvpn-logo-2.svg" width="64">     |
-| `software-openvpn-logo-3` | <img src="./images/software-openvpn-logo-3.svg" width="64">     |
-| `software-openvpn-logo-4` | <img src="./images/software-openvpn-logo-4.svg" width="64">     |
-| `software-openvpn-logo-5` | <img src="./images/software-openvpn-logo-5.svg" width="64">     |
-| `software-python-1`       | <img src="./images/software-python-1.svg" width="64">           |
-| `software-sap-1`          | <img src="./images/software-sap-1.svg" width="64">              |
-| `software-zabbix-1`       | <img src="./images/software-zabbix-1.svg" width="64">           |
+| `os-ubuntu-1`             | <img src="./images/os-ubuntu-1.svg" width="64">                 |
+| `os-ubuntu-2`             | <img src="./images/os-ubuntu-2.svg" width="64">                 |
+| `os-vyos-1`               | <img src="./images/os-vyos-1.svg" width="64">                   |
+| `os-vyos-2`               | <img src="./images/os-vyos-2.svg" width="64">                   |
+| `os-vyos-3`               | <img src="./images/os-vyos-3.svg" width="64">                   |
+| `os-vyos-4`               | <img src="./images/os-vyos-4.svg" width="64">                   |
+| `os-windows-1`            | <img src="./images/os-windows-1.svg" width="64">                |
+| `os-windows-2`            | <img src="./images/os-windows-2.svg" width="64">                |
+| `os-windows-3`            | <img src="./images/os-windows-3.svg" width="64">                |
 | `ui-lbe-1`                | <img src="./images/ui-lbe-1.svg" width="64">                    |
 | `ui-lbe-2`                | <img src="./images/ui-lbe-2.svg" width="64">                    |
 | `ui-liteap-1`             | <img src="./images/ui-liteap-1.svg" width="64">                 |
@@ -51,32 +60,29 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 | `ui-pbe-2`                | <img src="./images/ui-pbe-2.svg" width="64">                    |
 | `ui-pbe-iso-1`            | <img src="./images/ui-pbe-iso-1.svg" width="64">                |
 | `ui-pbe-iso-2`            | <img src="./images/ui-pbe-iso-2.svg" width="64">                |
-| `ui-ubiquiti-logo-1`      | <img src="./images/ui-ubiquiti-logo-1.svg" width="64">          |
-| `ui-ubiquiti-logo-2`      | <img src="./images/ui-ubiquiti-logo-2.svg" width="64">          |
-| `ui-ubiquiti-logo-3`      | <img src="./images/ui-ubiquiti-logo-3.svg" width="64">          |
 | `ui-unifi-uap-1`          | <img src="./images/ui-unifi-uap-1.svg" width="64">              |
 | `ui-unifi-uap-2`          | <img src="./images/ui-unifi-uap-2.svg" width="64">              |
 | `ui-unifi-uap-3`          | <img src="./images/ui-unifi-uap-3.svg" width="64">              |
 | `ui-unifi-uap-edu-1`      | <img src="./images/ui-unifi-uap-edu-1.svg" width="64">          |
 
-## ISPs Pack
+## Companies Pack
 
 |      Icon ID              |                         Icon                                    |
 | :-----------------------: | :-------------------------------------------------------------: |
-| `ips-aws-logo-1`          | <img src="./images/ips-aws-logo-1.svg" width="128">             |
-| `ips-aws-logo-2`          | <img src="./images/ips-aws-logo-2.svg" width="128">             |
-| `ips-claro-logo-1`        | <img src="./images/ips-claro-logo-1.svg" width="128">           |
-| `ips-claro-logo-2`        | <img src="./images/ips-claro-logo-2.svg" width="128">           |
-| `isp-ariu-logo-1`         | <img src="./images/isp-ariu-logo-1.svg" width="128">            |
-| `isp-ariu-logo-2`         | <img src="./images/isp-ariu-logo-2.svg" width="128">            |
-| `isp-ariu-logo-3`         | <img src="./images/isp-ariu-logo-3.svg" width="128">            |
-| `isp-cirion-logo-1`       | <img src="./images/isp-cirion-logo-1.svg" width="128">          |
-| `isp-lumen-logo-1`        | <img src="./images/isp-lumen-logo-1.svg" width="128">           |
-| `isp-telecentro-logo-1`   | <img src="./images/isp-telecentro-logo-1.svg" width="128">      |
-| `isp-telecentro-logo-2`   | <img src="./images/isp-telecentro-logo-2.svg" width="128">      |
-| `isp-telecentro-logo-3`   | <img src="./images/isp-telecentro-logo-3.svg" width="128">      |
-| `isp-telecom-logo-1`      | <img src="./images/isp-telecom-logo-1.svg" width="128">         |
-| `isp-telecom-logo-2`      | <img src="./images/isp-telecom-logo-2.svg" width="128">         |
+| `ips-claro-1`             | <img src="./images/ips-claro-1.svg" width="128">                |
+| `ips-claro-2`             | <img src="./images/ips-claro-2.svg" width="128">                |
+| `isp-ariu-1`              | <img src="./images/isp-ariu-1.svg" width="128">                 |
+| `isp-ariu-2`              | <img src="./images/isp-ariu-2.svg" width="128">                 |
+| `isp-ariu-3`              | <img src="./images/isp-ariu-3.svg" width="128">                 |
+| `isp-cirion-1`            | <img src="./images/isp-cirion-1.svg" width="128">               |
+| `isp-lumen-1`             | <img src="./images/isp-lumen-1.svg" width="128">                |
+| `isp-telecentro-1`        | <img src="./images/isp-telecentro-1.svg" width="128">           |
+| `isp-telecentro-2`        | <img src="./images/isp-telecentro-2.svg" width="128">           |
+| `isp-telecentro-3`        | <img src="./images/isp-telecentro-3.svg" width="128">           |
+| `isp-telecom-1`           | <img src="./images/isp-telecom-1.svg" width="128">              |
+| `isp-telecom-2`           | <img src="./images/isp-telecom-2.svg" width="128">              |
+| `logo-aws-1`              | <img src="./images/logo-aws-1.svg" width="128">                 |
+| `logo-aws-2`              | <img src="./images/logo-aws-2.svg" width="128">                 |
 
 ---
 
