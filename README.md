@@ -17,6 +17,8 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 | :-----------------------: | :-------------------------------------------------------------: |
 | `iconpack-background-1`   | <img src="./images/iconpack-background-1.svg" width="64">       |
 | `iconpack-foreground-1`   | <img src="./images/iconpack-foreground-1.svg" width="64">       |
+| `iconpack-dns-1`          | <img src="./images/iconpack-dns-1.svg" width="64">              |
+| `iconpack-dns-2`          | <img src="./images/iconpack-dns-2.svg" width="64">              |
 | `iconpack-folder-1`       | <img src="./images/iconpack-folder-1.svg" width="64">           |
 | `iconpack-folder-share-1` | <img src="./images/iconpack-folder-share-1.svg" width="64">     |
 | `iconpack-terminal-1`     | <img src="./images/iconpack-terminal-1.svg" width="64">         |
@@ -43,6 +45,12 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 | `logo-openvpn-5`          | <img src="./images/logo-openvpn-5.svg" width="64">              |
 | `logo-python-1`           | <img src="./images/logo-python-1.svg" width="64">               |
 | `logo-salesforce-1`       | <img src="./images/logo-salesforce-1.svg" width="64">           |
+| `logo-siu-arai-1`         | <img src="./images/logo-siu-arai-1.svg" width="64">             |
+| `logo-siu-diaguita-1`     | <img src="./images/logo-siu-diaguita-1.svg" width="64">         |
+| `logo-siu-guarani-1`      | <img src="./images/logo-siu-guarani-1.svg" width="64">          |
+| `logo-siu-kolla-1`        | <img src="./images/logo-siu-kolla-1.svg" width="64">            |
+| `logo-siu-pilaga-1`       | <img src="./images/logo-siu-pilaga-1.svg" width="64">           |
+| `logo-siu-wichi-1`        | <img src="./images/logo-siu-wichi-1.svg" width="64">            |
 | `logo-sap-1`              | <img src="./images/logo-sap-1.svg" width="64">                  |
 | `logo-ubiquiti-1`         | <img src="./images/logo-ubiquiti-1.svg" width="64">             |
 | `logo-ubiquiti-2`         | <img src="./images/logo-ubiquiti-2.svg" width="64">             |

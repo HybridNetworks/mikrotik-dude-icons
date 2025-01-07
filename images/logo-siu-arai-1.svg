@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="uuid-19907d1f-9315-477d-b7ba-91ae3e2acc9a"
+   data-name="Capa 1"
+   viewBox="0 0 256 256"
+   version="1.1"
+   sodipodi:docname="logo-siu-arai-1.svg"
+   xml:space="preserve"
+   width="256"
+   height="256"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"><inkscape:page
+       x="0"
+       y="0"
+       width="256"
+       height="256"
+       id="page2"
+       margin="0"
+       bleed="0" /></sodipodi:namedview><defs
+     id="defs2"><style
+       id="style1">
+      .uuid-153302a6-b94e-4ad0-9cfb-43725c5c5610 {
+        fill: url(#uuid-af07a271-8980-47e6-b92b-41550c7dc68a);
+      }
+
+      .uuid-27fce091-ee3a-4889-9199-28416b94f462 {
+        fill: url(#uuid-dc53e15d-e646-4f9b-aab3-d9d8fec05b0e);
+      }
+
+      .uuid-5da2c4a3-8db1-41d9-92d6-1ab0c264b0da {
+        fill: none;
+      }
+
+      .uuid-ed4306aa-b6e6-45eb-bfe3-e4f85f33ea76 {
+        fill: url(#uuid-afdc0b81-5c65-49b4-9e34-1cf3c2f4f8f7);
+      }
+
+      .uuid-03bde706-b35e-416f-8ae5-693e38f68253 {
+        fill: url(#uuid-8e0b3ff5-2b0d-4ede-9e3a-d9af7f50b81e);
+      }
+
+      .uuid-aed79b63-67fc-4862-91f2-2516d39da3fa {
+        fill: url(#uuid-5be9ed93-6987-4def-8687-537049e4e1cf);
+      }
+
+      .uuid-7fb198ab-10f1-4f2d-9a38-66668a795b4d {
+        fill: url(#uuid-ebe94990-143f-470c-b744-73e231e6133d);
+      }
+    </style><style
+       id="style1-3">
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #1568ad;
+      }
+    </style><style
+       id="style1-8">
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #853385;
+      }
+
+      .cls-3 {
+        fill: #4e4e4e;
+      }
+    </style></defs><rect
+     class="uuid-5da2c4a3-8db1-41d9-92d6-1ab0c264b0da"
+     width="256"
+     height="256"
+     id="rect2"
+     x="0"
+     y="0" /><g
+     id="Capa_1-2"
+     data-name="Capa 1"
+     transform="matrix(4.8731162,0,0,4.8731162,21.522411,18.013767)"><path
+       class="cls-1"
+       d="m 4.2,21.14 -4,12.3 v 3.6 c 0,1.7 1.1,3.2 2.5,3.4 l 0.6,0.1 0.7,-2.1 h 6.6 l 1,3.1 6.3,0.8 -7.3,-21.1 H 4.2 Z m 0.8,13.1 2.3,-7.8 h 0.1 l 2.2,7.8 z"
+       id="path1" /><g
+       id="g2"><polygon
+         class="cls-2"
+         points="7.4,26.44 7.3,26.44 5,34.24 9.6,34.24 "
+         id="polygon1" /><path
+         class="cls-2"
+         d="M 41.3,0.14 C 41.13,0.09 40.95,0.07 40.78,0.04 40.72,0.04 40.66,0.01 40.6,0.01 40.34,-0.01 40.08,0 39.81,0.04 L 2.7,4.54 C 1.2,4.64 0,6.24 0,8.04 v 29.1 c 0,1.7 1.2,3.3 2.7,3.5 l 37.1,4.5 h 0.5 c 1.9,0 3.4,-1.6 3.4,-3.4 V 3.54 c 0,-1.66 -0.98,-2.98 -2.4,-3.4 z M 0.4,37.04 V 32.82 L 4.2,21.14 h 6.4 L 17.84,42.06 11.56,41.3 10.7,38.34 H 4 L 3.44,40.32 2.8,40.24 c -1.3,-0.2 -2.4,-1.6 -2.4,-3.2 z"
+         id="path2-5" /></g></g></svg>
