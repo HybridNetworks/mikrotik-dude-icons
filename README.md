@@ -2,16 +2,16 @@
 
 <h3>NOTE: To keep icons consistent and to ensure The Dude support, we don't accept pull requests for icon submissions. If you would like an icon added, please open an issue.<h3>
 
-# Example
+## Example
 
 <p align="center"><img align="center" src="./.github/example-dark.png#gh-dark-mode-only"/></p>
 <p align="center"><img align="center" src="./.github/example-light.png#gh-light-mode-only"/></p>
 
-# Icons List
+## 📙 Icons List
 
 Here's a list of all the icons currently supported. Feel free to open an issue to suggest icons to add!
 
-## Icons Pack
+### 📦 Icons Pack
 
 |      Icon ID                |                         Icon                                    |
 | :-------------------------: | :-------------------------------------------------------------: |
@@ -95,7 +95,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 | `ui-unifi-uap-3`            | <img src="./images/ui-unifi-uap-3.svg" width="64">              |
 | `ui-unifi-uap-edu-1`        | <img src="./images/ui-unifi-uap-edu-1.svg" width="64">          |
 
-## Companies Pack
+### 📦 Companies Pack
 
 |      Icon ID                |                         Icon                                    |
 | :-------------------------: | :-------------------------------------------------------------: |
@@ -116,11 +116,75 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 
 ---
 
+## 🛠️ Usage
+
+### Mikrotik RouterOS v7 & CHR
+
+**1.- Set the Global Variable**
+
+Set the global variable with the installation directory of The Dude. Examples: `dude`, `slot1-part1/dude`, `sata1/dude-data`, etc.
+
+```
+:global dudeDirectory "sata1/dude-data"
+```
+
+**2.- Fetch, Import and Run the Installer**
+
+Fetch the installer script from the specified URL, import and run.
+
+```
+/tool fetch url="https://raw.githubusercontent.com/danielcshn/mikrotik-dude-icons/main/installer.rsc" mode=https;
+import file-name=installer.rsc;
+/system/script/run installer;
+```
+
+**3.- Clean Up**
+
+Remove the installer script and any global variables used during the installation.
+
+```
+/system/script/remove installer;
+/system/script/environment/remove dms;
+/system/script/environment/remove dudeDirectory;
+```
+
+**Additional Notes**
+
+* Ensure you have the necessary permissions to run these commands on your MikroTik device.
+* Check the logs for any errors during the installation process to troubleshoot if needed.
+* **Don't forget to reboot the system to apply the changes.**
+
+### Mikrotik The Dude 4.0beta3
+
+**1.- Download the ZIP File**
+
+Download the ZIP file from the official repository. Clic [here](https://github.com/danielcshn/mikrotik-dude-icons/archive/refs/heads/main.zip).
+
+**2.- Extract the ZIP File**
+
+Extract the ZIP file using a file extraction tool like WinRAR, 7-Zip, or the built-in extraction tools in Windows.
+
+**3.- Copy Files to The Dude Installation Directory**
+
+Copy the extracted files to the installation directory of The Dude.
+
+* Navigate to the extracted folder.
+* Select all files and folders in the images directory (Ctrl + A).
+* Copy them (Ctrl + C).
+* Go to the installation directory: `C:\Program Files (x86)\Dude\data\files\images`.
+* Paste the copied files (Ctrl + V) into this directory.
+
+**Additional Notes**
+
+* **Don't forget to restart the service or the system to apply the changes.**
+
+---
+
 ## 💖 Support the Project
 
 Thank you so much already for using my projects! If you want to go a step further and support my open source work, buy me a coffee:
 
-#### Buy a Coffee (International) :point_down:
+### Buy a Coffee (International) :point_down:
 
 [![Support in Ko-Fi](https://img.shields.io/badge/Buy%20me%20a%20coffee-in%20Ko--Fi-ff5e5b?style=for-the-badge)](https://ko-fi.com/hybridnetworks)
 
