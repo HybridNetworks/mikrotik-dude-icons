@@ -1,50 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="uuid-19907d1f-9315-477d-b7ba-91ae3e2acc9a" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256 256">
-  <defs>
-    <style>
-      .uuid-153302a6-b94e-4ad0-9cfb-43725c5c5610 {
-        fill: url(#uuid-af07a271-8980-47e6-b92b-41550c7dc68a);
-      }
-
-      .uuid-27fce091-ee3a-4889-9199-28416b94f462 {
-        fill: url(#uuid-dc53e15d-e646-4f9b-aab3-d9d8fec05b0e);
-      }
-
-      .uuid-5da2c4a3-8db1-41d9-92d6-1ab0c264b0da {
-        fill: none;
-      }
-
-      .uuid-ed4306aa-b6e6-45eb-bfe3-e4f85f33ea76 {
-        fill: url(#uuid-afdc0b81-5c65-49b4-9e34-1cf3c2f4f8f7);
-      }
-
-      .uuid-03bde706-b35e-416f-8ae5-693e38f68253 {
-        fill: url(#uuid-8e0b3ff5-2b0d-4ede-9e3a-d9af7f50b81e);
-      }
-
-      .uuid-aed79b63-67fc-4862-91f2-2516d39da3fa {
-        fill: url(#uuid-5be9ed93-6987-4def-8687-537049e4e1cf);
-      }
-
-      .uuid-7fb198ab-10f1-4f2d-9a38-66668a795b4d {
-        fill: url(#uuid-ebe94990-143f-470c-b744-73e231e6133d);
-      }
-    </style>
-    <linearGradient id="uuid-af07a271-8980-47e6-b92b-41550c7dc68a" data-name="Degradado sin nombre 6" x1="87.3" y1="309.3" x2="307.3" y2="89.3" gradientTransform="translate(0 258) scale(1 -1)" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#fcbe1b"/>
-      <stop offset="1" stop-color="#f28f1c"/>
-    </linearGradient>
-    <linearGradient id="uuid-8e0b3ff5-2b0d-4ede-9e3a-d9af7f50b81e" data-name="Degradado sin nombre 6" x1="37.25" y1="259.25" x2="257.25" y2="39.25" xlink:href="#uuid-af07a271-8980-47e6-b92b-41550c7dc68a"/>
-    <linearGradient id="uuid-dc53e15d-e646-4f9b-aab3-d9d8fec05b0e" data-name="Degradado sin nombre 6" x1="-51.3" y1="170.7" x2="168.7" y2="-49.3" xlink:href="#uuid-af07a271-8980-47e6-b92b-41550c7dc68a"/>
-    <linearGradient id="uuid-ebe94990-143f-470c-b744-73e231e6133d" data-name="Degradado sin nombre 6" x1="-1.25" y1="220.75" x2="218.75" y2=".75" xlink:href="#uuid-af07a271-8980-47e6-b92b-41550c7dc68a"/>
-    <linearGradient id="uuid-5be9ed93-6987-4def-8687-537049e4e1cf" data-name="Degradado sin nombre 6" x1="5.9" y1="227.9" x2="225.9" y2="7.9" xlink:href="#uuid-af07a271-8980-47e6-b92b-41550c7dc68a"/>
-    <linearGradient id="uuid-afdc0b81-5c65-49b4-9e34-1cf3c2f4f8f7" data-name="Degradado sin nombre 6" x1="30.1" y1="252.1" x2="250.1" y2="32.1" xlink:href="#uuid-af07a271-8980-47e6-b92b-41550c7dc68a"/>
-  </defs>
-  <rect class="uuid-5da2c4a3-8db1-41d9-92d6-1ab0c264b0da" width="256" height="256"/>
-  <path class="uuid-153302a6-b94e-4ad0-9cfb-43725c5c5610" d="M178.6,44.4h33v110h26.4V18h-59.4v26.4Z"/>
-  <path class="uuid-03bde706-b35e-416f-8ae5-693e38f68253" d="M154.4,18H18v59.4h26.4v-33h110v-26.4Z"/>
-  <path class="uuid-27fce091-ee3a-4889-9199-28416b94f462" d="M44.4,101.6h-26.4v136.4h59.4v-26.4h-33v-110Z"/>
-  <path class="uuid-7fb198ab-10f1-4f2d-9a38-66668a795b4d" d="M101.6,211.6v26.4h136.4v-59.4h-26.4v33h-110Z"/>
-  <path class="uuid-aed79b63-67fc-4862-91f2-2516d39da3fa" d="M66.4,66.4h26.4l48.4,123.2h-26.4l-48.4-123.2Z"/>
-  <path class="uuid-ed4306aa-b6e6-45eb-bfe3-e4f85f33ea76" d="M189.6,66.4h-26.4l-48.4,123.2h26.4l48.4-123.2Z"/>
+<svg data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256 256">
+    <defs>
+        <linearGradient id="a" data-name="Degraded1" x1="87.3" y1="309.3" x2="307.3" y2="89.3" gradientTransform="matrix(1 0 0 -1 0 258)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#fcbe1b"/>
+            <stop offset="1" stop-color="#f28f1c"/>
+        </linearGradient>
+        <linearGradient id="b" data-name="Degraded1" x1="37.25" y1="259.25" x2="257.25" y2="39.25" xlink:href="#a"/>
+        <linearGradient id="c" data-name="Degraded1" x1="-51.3" y1="170.7" x2="168.7" y2="-49.3" xlink:href="#a"/>
+        <linearGradient id="d" data-name="Degraded1" x1="-1.25" y1="220.75" x2="218.75" y2=".75" xlink:href="#a"/>
+        <linearGradient id="e" data-name="Degraded1" x1="5.9" y1="227.9" x2="225.9" y2="7.9" xlink:href="#a"/>
+        <linearGradient id="f" data-name="Degraded1" x1="30.1" y1="252.1" x2="250.1" y2="32.1" xlink:href="#a"/>
+    </defs>
+    <path style="fill:none" d="M0 0h256v256H0z"/>
+    <path d="M178.6 44.4h33v110H238V18h-59.4v26.4Z" style="fill:url(#a)"/>
+    <path d="M154.4 18H18v59.4h26.4v-33h110V18Z" style="fill:url(#b)"/>
+    <path d="M44.4 101.6H18V238h59.4v-26.4h-33v-110Z" style="fill:url(#c)"/>
+    <path d="M101.6 211.6V238H238v-59.4h-26.4v33h-110Z" style="fill:url(#d)"/>
+    <path d="M66.4 66.4h26.4l48.4 123.2h-26.4L66.4 66.4Z" style="fill:url(#e)"/>
+    <path d="M189.6 66.4h-26.4l-48.4 123.2h26.4l48.4-123.2Z" style="fill:url(#f)"/>
 </svg>

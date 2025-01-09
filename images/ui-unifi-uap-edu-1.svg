@@ -1,31 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="uuid-1779580e-06d3-47b2-bcc7-ba689bb8558b" data-name="uuid-19907d1f-9315-477d-b7ba-91ae3e2acc9a" xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
-  <defs>
-    <style>
-      .uuid-1785d1c5-6921-48cd-b19e-90acdfb96ab4 {
-        fill: #f5f5f5;
-      }
-
-      .uuid-2ae2c89b-e223-4afb-b2fb-c49732043d04, .uuid-4545de0f-14e1-44f0-bcae-737901fc0dca {
-        fill: none;
-      }
-
-      .uuid-4545de0f-14e1-44f0-bcae-737901fc0dca {
-        stroke: #56a2ec;
-        stroke-miterlimit: 11.34;
-        stroke-width: 1.15px;
-      }
-
-      .uuid-107542f7-78f8-4716-b0a7-cb0ac432caa9 {
-        fill: #dcdcdc;
-      }
-    </style>
-  </defs>
-  <rect class="uuid-2ae2c89b-e223-4afb-b2fb-c49732043d04" width="256" height="256"/>
-  <g id="uuid-73669cb2-1a13-4c70-af5a-a677add5c1e9" data-name="layer1">
-    <circle id="uuid-f3d91f97-0421-4d32-91da-ab2d0afb1a5b" data-name="path8526-5-2" class="uuid-1785d1c5-6921-48cd-b19e-90acdfb96ab4" cx="127.85" cy="127.85" r="110.15"/>
-    <circle id="uuid-ed9bfed5-1b39-4b22-a686-66a1cfd7ea64" data-name="path8526-5" class="uuid-107542f7-78f8-4716-b0a7-cb0ac432caa9" cx="127.85" cy="127.85" r="92.7"/>
-    <circle id="uuid-7b8373a1-8202-4b60-ae13-6249bd44009c" data-name="path8526" class="uuid-1785d1c5-6921-48cd-b19e-90acdfb96ab4" cx="127.85" cy="127.85" r="76.61"/>
-    <circle id="uuid-df9ea18f-e148-4bc2-89dd-a0eda7275cb9" data-name="path8526-4" class="uuid-4545de0f-14e1-44f0-bcae-737901fc0dca" cx="127.85" cy="127.85" r="31.44"/>
-  </g>
+<svg id="uuid-1779580e-06d3-47b2-bcc7-ba689bb8558b" data-name="uuid-19907d1f-9315-477d-b7ba-91ae3e2acc9a" xmlns="http://www.w3.org/2000/svg" width="256" height="256">
+    <defs>
+        <style>
+            .uuid-1785d1c5-6921-48cd-b19e-90acdfb96ab4{fill:#f5f5f5}
+        </style>
+    </defs>
+    <path style="fill:none" d="M0 0h256v256H0z"/>
+    <g id="uuid-73669cb2-1a13-4c70-af5a-a677add5c1e9" data-name="layer1">
+        <circle id="uuid-f3d91f97-0421-4d32-91da-ab2d0afb1a5b" data-name="path8526-5-2" class="uuid-1785d1c5-6921-48cd-b19e-90acdfb96ab4" cx="127.85" cy="127.85" r="110.15"/>
+        <circle id="uuid-ed9bfed5-1b39-4b22-a686-66a1cfd7ea64" data-name="path8526-5" cx="127.85" cy="127.85" r="92.7" style="fill:#dcdcdc"/>
+        <circle id="uuid-7b8373a1-8202-4b60-ae13-6249bd44009c" data-name="path8526" class="uuid-1785d1c5-6921-48cd-b19e-90acdfb96ab4" cx="127.85" cy="127.85" r="76.61"/>
+        <circle id="uuid-df9ea18f-e148-4bc2-89dd-a0eda7275cb9" data-name="path8526-4" cx="127.85" cy="127.85" r="31.44" style="stroke:#56a2ec;stroke-miterlimit:11.34;stroke-width:1.15px;fill:none"/>
+    </g>
 </svg>
