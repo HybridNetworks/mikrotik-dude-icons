@@ -58,6 +58,8 @@ logo-siu-wichi-1.svg
 logo-ubiquiti-1.svg
 logo-ubiquiti-2.svg
 logo-ubiquiti-3.svg
+logo-ubiquiti-4.svg
+logo-ubiquiti-5.svg
 logo-vmware-1.svg
 logo-wikijs-1.svg
 logo-zabbix-1.svg

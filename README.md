@@ -61,6 +61,8 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 | `logo-ubiquiti-1`           | <img src="./images/logo-ubiquiti-1.svg" width="64">             |
 | `logo-ubiquiti-2`           | <img src="./images/logo-ubiquiti-2.svg" width="64">             |
 | `logo-ubiquiti-3`           | <img src="./images/logo-ubiquiti-3.svg" width="64">             |
+| `logo-ubiquiti-4`           | <img src="./images/logo-ubiquiti-4.svg" width="64">             |
+| `logo-ubiquiti-5`           | <img src="./images/logo-ubiquiti-5.svg" width="64">             |
 | `logo-vmware-1`             | <img src="./images/logo-vmware-1.svg" width="64">               |
 | `logo-wikijs-1`             | <img src="./images/logo-wikijs-1.svg" width="64">               |
 | `logo-zabbix-1`             | <img src="./images/logo-zabbix-1.svg" width="64">               |
