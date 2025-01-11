@@ -62,6 +62,7 @@ logo-ubiquiti-4.svg
 logo-ubiquiti-5.svg
 logo-vmware-1.svg
 logo-wikijs-1.svg
+logo-winbox3-1.svg
 logo-zabbix-1.svg
 os-altlinux-1.svg
 os-debian-1.svg

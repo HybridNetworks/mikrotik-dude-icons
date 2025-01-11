@@ -65,6 +65,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 | `logo-ubiquiti-5`           | <img src="./images/logo-ubiquiti-5.svg" width="64">             |
 | `logo-vmware-1`             | <img src="./images/logo-vmware-1.svg" width="64">               |
 | `logo-wikijs-1`             | <img src="./images/logo-wikijs-1.svg" width="64">               |
+| `logo-winbox3-1`            | <img src="./images/logo-winbox3-1.svg" width="64">              |
 | `logo-zabbix-1`             | <img src="./images/logo-zabbix-1.svg" width="64">               |
 | `os-altlinux-1`             | <img src="./images/os-altlinux-1.svg" width="64">               |
 | `os-debian-1`               | <img src="./images/os-debian-1.svg" width="64">                 |
