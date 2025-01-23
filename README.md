@@ -61,6 +61,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 | `logo-openvpn-3`            | <img src="./images/logo-openvpn-3.svg" width="64">              |
 | `logo-openvpn-4`            | <img src="./images/logo-openvpn-4.svg" width="64">              |
 | `logo-openvpn-5`            | <img src="./images/logo-openvpn-5.svg" width="64">              |
+| `logo-paloalto-1`           | <img src="./images/logo-paloalto-1.svg" width="64">             |
 | `logo-python-1`             | <img src="./images/logo-python-1.svg" width="64">               |
 | `logo-salesforce-1`         | <img src="./images/logo-salesforce-1.svg" width="64">           |
 | `logo-siu-arai-1`           | <img src="./images/logo-siu-arai-1.svg" width="64">             |
@@ -125,8 +126,14 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 | `isp-ariu-1`                | <img src="./images/isp-ariu-1.svg" width="128">                 |
 | `isp-ariu-2`                | <img src="./images/isp-ariu-2.svg" width="128">                 |
 | `isp-ariu-3`                | <img src="./images/isp-ariu-3.svg" width="128">                 |
+| `isp-att-1`                 | <img src="./images/isp-att-1.svg" width="128">                  |
+| `isp-centurylink-1`         | <img src="./images/isp-centurylink-1.svg" width="128">          |
 | `isp-cirion-1`              | <img src="./images/isp-cirion-1.svg" width="128">               |
+| `isp-frontier-1`            | <img src="./images/isp-frontier-1.svg" width="128">             |
+| `isp-gfiber-1`              | <img src="./images/isp-gfiber-1.svg" width="128">               |
+| `isp-iplan-1`               | <img src="./images/isp-iplan-1.svg" width="128">                |
 | `isp-lumen-1`               | <img src="./images/isp-lumen-1.svg" width="128">                |
+| `isp-movistar-1`            | <img src="./images/isp-movistar-1.svg" width="128">             |
 | `isp-telecentro-1`          | <img src="./images/isp-telecentro-1.svg" width="128">           |
 | `isp-telecentro-2`          | <img src="./images/isp-telecentro-2.svg" width="128">           |
 | `isp-telecentro-3`          | <img src="./images/isp-telecentro-3.svg" width="128">           |
@@ -134,6 +141,8 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 | `isp-telecom-2`             | <img src="./images/isp-telecom-2.svg" width="128">              |
 | `logo-aws-1`                | <img src="./images/logo-aws-1.svg" width="128">                 |
 | `logo-aws-2`                | <img src="./images/logo-aws-2.svg" width="128">                 |
+| `logo-fortinet-3`           | <img src="./images/logo-fortinet-3.svg" width="128">            |
+| `logo-paloalto-2`           | <img src="./images/logo-paloalto-2.svg" width="128">            |
 
 ---
 

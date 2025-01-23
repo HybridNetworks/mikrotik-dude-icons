@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   data-name="Capa 1"
+   viewBox="0 0 256 256"
+   version="1.1"
+   id="svg8"
+   width="256"
+   height="256"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <path
+     style="fill:none"
+     d="M 0,0 H 256 V 256 H 0 Z"
+     id="path2" />
+  <g
+     transform="matrix(0.69963495,0,0,0.70256025,18.286609,48.1453)"
+     id="g14">
+    <polygon
+       class="st0"
+       points="179.3,68.64 67.05,180.9 111.8,225.7 156.6,180.9 134.3,158.6 246.6,46.36 201.8,1.59 157,46.36 "
+       id="polygon1"
+       style="fill:#f04e23" />
+    <rect
+       class="st0"
+       transform="matrix(0.7071,-0.7071,0.7071,0.7071,-33.65,78.99)"
+       x="-0.87"
+       y="48.450001"
+       width="158.8"
+       height="63.32"
+       id="rect1-4"
+       style="fill:#f04e23" />
+    <rect
+       class="st0"
+       transform="matrix(0.7071,-0.7071,0.7071,0.7071,-35.19,209.4)"
+       x="155.7"
+       y="115.5"
+       width="158.8"
+       height="63.32"
+       id="rect2"
+       style="fill:#f04e23" />
+  </g>
+</svg>

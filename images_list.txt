@@ -31,8 +31,14 @@ ips-claro-2.svg
 isp-ariu-1.svg
 isp-ariu-2.svg
 isp-ariu-3.svg
+isp-att-1.svg
+isp-centurylink-1.svg
 isp-cirion-1.svg
+isp-frontier-1.svg
+isp-gfiber-1.svg
+isp-iplan-1.svg
 isp-lumen-1.svg
+isp-movistar-1.svg
 isp-telecentro-1.svg
 isp-telecentro-2.svg
 isp-telecentro-3.svg
@@ -46,6 +52,7 @@ logo-chrome-1.svg
 logo-digital-ocean-1.svg
 logo-fortinet-1.svg
 logo-fortinet-2.svg
+logo-fortinet-3.svg
 logo-github-1.svg
 logo-github-2.svg
 logo-google-1.svg
@@ -58,6 +65,8 @@ logo-openvpn-2.svg
 logo-openvpn-3.svg
 logo-openvpn-4.svg
 logo-openvpn-5.svg
+logo-paloalto-1.svg
+logo-paloalto-2.svg
 logo-python-1.svg
 logo-salesforce-1.svg
 logo-sap-1.svg
