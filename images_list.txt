@@ -92,10 +92,12 @@ logo-zabbix-1.svg
 os-altlinux-1.svg
 os-debian-1.svg
 os-fedora-1.svg
+os-kali-1.svg
 os-kubuntu-1.svg
 os-linux-1.svg
 os-lubuntu-1.svg
 os-lubuntu-2.svg
+os-parrotsec-1.svg
 os-proxmox-1.svg
 os-proxmox-2.svg
 os-ubuntu-1.svg

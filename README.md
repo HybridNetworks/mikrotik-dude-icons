@@ -87,10 +87,12 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 | `os-altlinux-1`             | <img src="./images/os-altlinux-1.svg" width="64">               |
 | `os-debian-1`               | <img src="./images/os-debian-1.svg" width="64">                 |
 | `os-fedora-1`               | <img src="./images/os-fedora-1.svg" width="64">                 |
+| `os-kali-1`                 | <img src="./images/os-kali-1.svg" width="64">                   |
+| `os-kubuntu-1`              | <img src="./images/os-kubuntu-1.svg" width="64">                |
 | `os-linux-1`                | <img src="./images/os-linux-1.svg" width="64">                  |
 | `os-lubuntu-1`              | <img src="./images/os-lubuntu-1.svg" width="64">                |
 | `os-lubuntu-2`              | <img src="./images/os-lubuntu-2.svg" width="64">                |
-| `os-kubuntu-1`              | <img src="./images/os-kubuntu-1.svg" width="64">                |
+| `os-parrotsec-1`            | <img src="./images/os-parrotsec-1.svg" width="64">              |
 | `os-proxmox-1`              | <img src="./images/os-proxmox-1.svg" width="64">                |
 | `os-proxmox-2`              | <img src="./images/os-proxmox-2.svg" width="64">                |
 | `os-ubuntu-1`               | <img src="./images/os-ubuntu-1.svg" width="64">                 |
