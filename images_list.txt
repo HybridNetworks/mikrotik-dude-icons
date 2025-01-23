@@ -1,4 +1,7 @@
 iconpack-background-1.svg
+iconpack-barrier-1.svg
+iconpack-cam-1.svg
+iconpack-cam-2.svg
 iconpack-dns-1.svg
 iconpack-dns-2.svg
 iconpack-folder-1.svg
@@ -6,6 +9,15 @@ iconpack-folder-backup-1.svg
 iconpack-folder-backup-2.svg
 iconpack-folder-share-1.svg
 iconpack-foreground-1.svg
+iconpack-gear-1.svg
+iconpack-net-firewall-1.svg
+iconpack-net-hub-1.svg
+iconpack-net-monitor-1.svg
+iconpack-net-server-1.svg
+iconpack-net-server-2.svg
+iconpack-net-swl2-1.svg
+iconpack-net-swl3-1.svg
+iconpack-net-unknown-1.svg
 iconpack-terminal-1.svg
 iot-arduino-1.svg
 iot-homeassistant-1.svg
@@ -31,12 +43,14 @@ logo-aws-1.svg
 logo-aws-2.svg
 logo-azure-1.svg
 logo-chrome-1.svg
+logo-digital-ocean-1.svg
 logo-fortinet-1.svg
 logo-fortinet-2.svg
 logo-github-1.svg
 logo-github-2.svg
 logo-google-1.svg
 logo-grafana-1.svg
+logo-kubernetes-1.svg
 logo-mikrotik-1.svg
 logo-mikrotik-2.svg
 logo-openvpn-1.svg
@@ -55,6 +69,8 @@ logo-siu-kolla-1.svg
 logo-siu-pilaga-1.svg
 logo-siu-sudocu-1.svg
 logo-siu-wichi-1.svg
+logo-the-dude-1.svg
+logo-the-dude-2.svg
 logo-ubiquiti-1.svg
 logo-ubiquiti-2.svg
 logo-ubiquiti-3.svg
@@ -66,7 +82,9 @@ logo-winbox3-1.svg
 logo-zabbix-1.svg
 os-altlinux-1.svg
 os-debian-1.svg
+os-fedora-1.svg
 os-kubuntu-1.svg
+os-linux-1.svg
 os-lubuntu-1.svg
 os-lubuntu-2.svg
 os-proxmox-1.svg

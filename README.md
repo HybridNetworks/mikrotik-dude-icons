@@ -15,14 +15,26 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 
 |      Icon ID                |                         Icon                                    |
 | :-------------------------: | :-------------------------------------------------------------: |
+| `iconpack-barrier-1`        | <img src="./images/iconpack-barrier-1.svg" width="64">          |
 | `iconpack-background-1`     | <img src="./images/iconpack-background-1.svg" width="64">       |
 | `iconpack-foreground-1`     | <img src="./images/iconpack-foreground-1.svg" width="64">       |
+| `iconpack-cam-1`            | <img src="./images/iconpack-cam-1.svg" width="64">              |
+| `iconpack-cam-2`            | <img src="./images/iconpack-cam-2.svg" width="64">              |
 | `iconpack-dns-1`            | <img src="./images/iconpack-dns-1.svg" width="64">              |
 | `iconpack-dns-2`            | <img src="./images/iconpack-dns-2.svg" width="64">              |
 | `iconpack-folder-1`         | <img src="./images/iconpack-folder-1.svg" width="64">           |
 | `iconpack-folder-backup-1`  | <img src="./images/iconpack-folder-backup-1.svg" width="64">    |
 | `iconpack-folder-backup-2`  | <img src="./images/iconpack-folder-backup-2.svg" width="64">    |
 | `iconpack-folder-share-1`   | <img src="./images/iconpack-folder-share-1.svg" width="64">     |
+| `iconpack-gear-1`           | <img src="./images/iconpack-gear-1.svg" width="64">             |
+| `iconpack-net-firewall-1`   | <img src="./images/iconpack-net-firewall-1.svg" width="64">     |
+| `iconpack-net-hub-1`        | <img src="./images/iconpack-net-hub-1.svg" width="64">          |
+| `iconpack-net-monitor-1`    | <img src="./images/iconpack-net-monitor-1.svg" width="64">      |
+| `iconpack-net-server-1`     | <img src="./images/iconpack-net-server-1.svg" width="64">       |
+| `iconpack-net-server-2`     | <img src="./images/iconpack-net-server-2.svg" width="64">       |
+| `iconpack-net-swl2-1`       | <img src="./images/iconpack-net-swl2-1.svg" width="64">         |
+| `iconpack-net-swl3-1`       | <img src="./images/iconpack-net-swl3-1.svg" width="64">         |
+| `iconpack-net-unknown-1`    | <img src="./images/iconpack-net-unknown-1.svg" width="64">      |
 | `iconpack-terminal-1`       | <img src="./images/iconpack-terminal-1.svg" width="64">         |
 | `iot-arduino-1`             | <img src="./images/iot-arduino-1.svg" width="64">               |
 | `iot-homeassistant-1`       | <img src="./images/iot-homeassistant-1.svg" width="64">         |
@@ -34,12 +46,14 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 | `logo-asterisk-1`           | <img src="./images/logo-asterisk-1.svg" width="64">             |
 | `logo-azure-1`              | <img src="./images/logo-azure-1.svg" width="64">                |
 | `logo-chrome-1`             | <img src="./images/logo-chrome-1.svg" width="64">               |
+| `logo-digital-ocean-1`      | <img src="./images/logo-digital-ocean-1.svg" width="64">        |
 | `logo-fortinet-1`           | <img src="./images/logo-fortinet-1.svg" width="64">             |
 | `logo-fortinet-2`           | <img src="./images/logo-fortinet-2.svg" width="64">             |
 | `logo-github-1`             | <img src="./images/logo-github-1.svg" width="64">               |
 | `logo-github-2`             | <img src="./images/logo-github-2.svg" width="64">               |
 | `logo-google-1`             | <img src="./images/logo-google-1.svg" width="64">               |
 | `logo-grafana-1`            | <img src="./images/logo-grafana-1.svg" width="64">              |
+| `logo-kubernetes-1`         | <img src="./images/logo-kubernetes-1.svg" width="64">           |
 | `logo-mikrotik-1`           | <img src="./images/logo-mikrotik-1.svg" width="64">             |
 | `logo-mikrotik-2`           | <img src="./images/logo-mikrotik-2.svg" width="64">             |
 | `logo-openvpn-1`            | <img src="./images/logo-openvpn-1.svg" width="64">              |
@@ -57,6 +71,8 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 | `logo-siu-pilaga-1`         | <img src="./images/logo-siu-pilaga-1.svg" width="64">           |
 | `logo-siu-sudocu-1`         | <img src="./images/logo-siu-sudocu-1.svg" width="64">           |
 | `logo-siu-wichi-1`          | <img src="./images/logo-siu-wichi-1.svg" width="64">            |
+| `logo-the-dude-1`           | <img src="./images/logo-the-dude-1.svg" width="64">             |
+| `logo-the-dude-2`           | <img src="./images/logo-the-dude-2.svg" width="64">             |
 | `logo-sap-1`                | <img src="./images/logo-sap-1.svg" width="64">                  |
 | `logo-ubiquiti-1`           | <img src="./images/logo-ubiquiti-1.svg" width="64">             |
 | `logo-ubiquiti-2`           | <img src="./images/logo-ubiquiti-2.svg" width="64">             |
@@ -69,6 +85,8 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 | `logo-zabbix-1`             | <img src="./images/logo-zabbix-1.svg" width="64">               |
 | `os-altlinux-1`             | <img src="./images/os-altlinux-1.svg" width="64">               |
 | `os-debian-1`               | <img src="./images/os-debian-1.svg" width="64">                 |
+| `os-fedora-1`               | <img src="./images/os-fedora-1.svg" width="64">                 |
+| `os-linux-1`                | <img src="./images/os-linux-1.svg" width="64">                  |
 | `os-lubuntu-1`              | <img src="./images/os-lubuntu-1.svg" width="64">                |
 | `os-lubuntu-2`              | <img src="./images/os-lubuntu-2.svg" width="64">                |
 | `os-kubuntu-1`              | <img src="./images/os-kubuntu-1.svg" width="64">                |

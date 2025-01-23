@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   data-name="Dude"
+   viewBox="0 0 256 256"
+   version="1.1"
+   id="svg8"
+   width="256"
+   height="256"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+
+  <title property="dc:title">The Dude - Mikrotik</title>
+  <desc property="dc:creator">danielcshn</desc>
+
+  <defs
+     id="defs2">
+    <linearGradient
+       id="swatch19">
+      <stop
+         style="stop-color:#4e4e4e;stop-opacity:1;"
+         offset="0"
+         id="stop20" />
+    </linearGradient>
+    <linearGradient
+       id="swatch15">
+      <stop
+         style="stop-color:#4e4e4e;stop-opacity:1;"
+         offset="0"
+         id="stop15" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient9">
+      <stop
+         style="stop-color:#ce0405;stop-opacity:1;"
+         offset="0.64276731"
+         id="stop9" />
+      <stop
+         style="stop-color:#4a3c3c;stop-opacity:1;"
+         offset="1"
+         id="stop10" />
+    </linearGradient>
+    <radialGradient
+       xlink:href="#linearGradient9"
+       id="radialGradient10"
+       cx="127.99943"
+       cy="128.00056"
+       fx="127.99943"
+       fy="128.00056"
+       r="110.05757"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <path
+     style="fill:none"
+     d="M 0,0 H 256 V 256 H 0 Z"
+     id="path2" />
+  <path
+     style="fill:#999999;fill-opacity:1;stroke-width:0.839529"
+     d="m 23.12081,99.797685 8.466324,-1.167766 c 0,0 15.76487,-49.92209 58.096467,-64.227237 l -2.919415,9.050202 39.120214,-15.764867 -43.207405,-9.342152 6.130782,7.590483 c 0,0 -51.673751,13.721246 -65.686967,73.861337 z"
+     id="path1" />
+  <path
+     style="fill:#999999;stroke-width:0.839529"
+     d="m 100.5996,234.17673 -1.167769,-8.46629 c 0,0 -49.922089,-15.76487 -64.227236,-58.09648 l 9.050202,2.91941 -15.764867,-39.12021 -9.342153,43.20741 7.590484,-6.13079 c 0,0 13.721246,51.67376 73.861339,65.68695 z"
+     id="path1-4" />
+  <path
+     style="fill:#999999;stroke-width:0.839529"
+     d="m 156.3211,25.444497 1.16776,8.466302 c 0,0 49.92209,15.764867 64.22725,58.096473 l -9.05021,-2.919407 15.76486,39.120225 9.34216,-43.207435 -7.59049,6.130794 c 0,0 -13.72124,-51.673755 -73.86133,-65.686952 z"
+     id="path1-7" />
+  <path
+     style="fill:#999999;stroke-width:0.839529"
+     d="m 232.47063,157.51749 -8.4663,1.16776 c 0,0 -15.76487,49.92209 -58.09644,64.22724 l 2.91941,-9.0502 -39.12022,15.76486 43.20743,9.34216 -6.1308,-7.59049 c 0,0 51.67373,-13.72124 65.68692,-73.86133 z"
+     id="path1-7-2" />
+  <g
+     id="g2"
+     transform="matrix(0.80645846,0,0,0.80645846,24.413076,25.148581)">
+    <path
+       style="fill:none"
+       d="M 0,0 H 256 V 256 H 0 Z"
+       id="path2-1" />
+    <ellipse
+       style="fill:#ffffff"
+       id="path13"
+       cx="128"
+       cy="128"
+       rx="108.76213"
+       ry="108.2851" />
+    <path
+       d="M 128.00001,17.943 C 83.486156,17.942996 43.355109,44.757669 26.321356,85.882369 9.2876377,127.00699 18.705988,174.34218 50.181899,205.81809 81.65781,237.29401 128.993,246.71236 170.11762,229.67865 211.24232,212.6449 238.057,172.51385 238.057,128 238.057,67.217201 188.78281,17.943006 128.00001,17.943 Z M 60.865227,69.050725 c 0.756642,0 0.825428,0.343921 0.825428,0.894202 1.18716,32.512313 15.12334,63.250983 38.795095,85.569313 23.98417,22.9994 56.20665,35.39268 89.42131,34.39285 C 115.34345,220.17277 36.859044,148.63569 60.865227,69.050725 Z M 94.63897,58.664093 c 8.52942,59.086847 40.23959,94.992947 104.89808,97.950727 -28.51117,11.02186 -60.81411,4.7712 -83.15573,-16.09074 C 94.039703,119.66214 85.5936,87.862546 94.63897,58.664093 Z m 89.27924,61.999477"
+       style="display:inline;fill:url(#radialGradient10);fill-opacity:1;stroke-width:6.87857"
+       id="path1-6" />
+  </g>
+</svg>
