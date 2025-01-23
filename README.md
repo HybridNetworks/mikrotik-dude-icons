@@ -1,6 +1,7 @@
 # mikrotik-dude-icons
 
-<h3>NOTE: To keep icons consistent and to ensure The Dude support, we don't accept pull requests for icon submissions. If you would like an icon added, please open an issue.<h3>
+> [!NOTE]
+> To keep icons consistent and to ensure The Dude support, we don't accept pull requests for icon submissions. If you would like an icon added, please open an issue.
 
 ## Example
 
@@ -20,6 +21,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 | `iconpack-foreground-1`     | <img src="./images/iconpack-foreground-1.svg" width="64">       |
 | `iconpack-cam-1`            | <img src="./images/iconpack-cam-1.svg" width="64">              |
 | `iconpack-cam-2`            | <img src="./images/iconpack-cam-2.svg" width="64">              |
+| `iconpack-cam-3`            | <img src="./images/iconpack-cam-3.svg" width="64">              |
 | `iconpack-dns-1`            | <img src="./images/iconpack-dns-1.svg" width="64">              |
 | `iconpack-dns-2`            | <img src="./images/iconpack-dns-2.svg" width="64">              |
 | `iconpack-folder-1`         | <img src="./images/iconpack-folder-1.svg" width="64">           |
@@ -145,6 +147,10 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 | `logo-aws-2`                | <img src="./images/logo-aws-2.svg" width="128">                 |
 | `logo-fortinet-3`           | <img src="./images/logo-fortinet-3.svg" width="128">            |
 | `logo-paloalto-2`           | <img src="./images/logo-paloalto-2.svg" width="128">            |
+| `logo-hybridnetworks-1`     | <img src="./images/logo-hybridnetworks-1.svg" width="128">      |
+| `logo-hybridnetworks-2`     | <img src="./images/logo-hybridnetworks-2.svg" width="128">      |
+| `logo-hybridnetworks-3`     | <img src="./images/logo-hybridnetworks-3.svg" width="128">      |
+| `logo-hybridnetworks-4`     | <img src="./images/logo-hybridnetworks-4.svg" width="128">      |
 
 ---
 
