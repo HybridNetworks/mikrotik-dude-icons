@@ -171,7 +171,7 @@ Set the global variable with the installation directory of The Dude. Examples: `
 Fetch the installer script from the specified URL, import and run.
 
 ```
-/tool fetch url="https://raw.githubusercontent.com/danielcshn/mikrotik-dude-icons/main/installer.rsc" mode=https;
+/tool fetch url="https://raw.githubusercontent.com/HybridNetworks/mikrotik-dude-icons/main/installer.rsc" mode=https;
 import file-name=installer.rsc;
 /system/script/run installer;
 ```
@@ -196,7 +196,7 @@ Remove the installer script and any global variables used during the installatio
 
 **1.- Download the ZIP File**
 
-Download the ZIP file from the official repository. Clic [here](https://github.com/danielcshn/mikrotik-dude-icons/archive/refs/heads/main.zip).
+Download the ZIP file from the official repository. Clic [here](https://github.com/HybridNetworks/mikrotik-dude-icons/archive/refs/heads/main.zip).
 
 **2.- Extract the ZIP File**
 
