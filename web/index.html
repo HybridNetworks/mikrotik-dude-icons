@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>mikrotik-dude-icons | Code Generator by HybridNetworks.com.ar</title>
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    .image-item img {
+      height: auto;
+      margin-right: 10px;
+      cursor: pointer;
+    }
+    .generated-code textarea {
+      width: 100%;
+      resize: none;
+    }
+    footer {
+      margin-top: 20px;
+      padding: 10px 0;
+      background-color: #f8f9fa;
+      text-align: center;
+      font-size: 0.9rem;
+      color: #6c757d;
+    }
+  </style>
+</head>
+<body class="bg-light">
+  <div class="container py-4">
+    <h1 class="text-center mb-4">mikrotik-dude-icons<br>Code Generator</h1>
+    <div class="card shadow-sm p-4">
+      <div class="mb-3">
+        <label for="directory" class="form-label"><strong>1.- Installation directory of The Dude:</strong></label>
+        <input type="text" id="directory" class="form-control" placeholder="Examples: dude, slot1-part1/dude, sata1/dude-data, etc." required>
+      </div>
+      <div class="mb-3">
+        <label for="directory" class="form-label"><strong>2.- Select the images you require & Generate Code:</strong></label>
+      </div>
+      <div class="d-flex justify-content-between mb-3">
+        <button id="selectAll" class="btn btn-secondary">Select All</button>
+        <button id="deselectAll" class="btn btn-secondary">Deselect All</button>
+      </div>
+      <div class="image-list row row-cols-2 g-3" id="imageList"></div>
+      <div class="text-center mt-4">
+        <button id="generateCode" class="btn btn-primary">Generate Code</button>
+      </div>
+      <div class="generated-code mt-4">
+        <label for="outputCode" class="form-label"><strong>3.- Generated Code:</strong></label>
+        <textarea id="outputCode" rows="8" class="form-control" readonly></textarea>
+        <button id="copyCode" class="btn btn-success mt-3">Copy Code</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer>
+    &copy; <script type="text/javascript">var dt = new Date(); document.write(dt.getFullYear());</script> <strong>HybridNetworks Ltd.</strong> All rights reserved.
+  </footer>
+
+  <!-- Bootstrap JS Bundle with Popper -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"></script>
+  <script>
+    // Path for images
+    const baseImagePath = 'https://raw.githubusercontent.com/HybridNetworks/mikrotik-dude-icons/main/images/';
+
+    // Function to load list of images from txt file
+    async function loadImageList() {
+      try {
+        const response = await fetch('https://raw.githubusercontent.com/HybridNetworks/mikrotik-dude-icons/refs/heads/main/images_list.txt');
+        const text = await response.text();
+        const images = text.split('\n').map(line => line.trim()).filter(line => line);
+        const imageListDiv = document.getElementById('imageList');
+
+        images.forEach(image => {
+          const div = document.createElement('div');
+          div.className = 'col';
+          const fileNameWithoutExtension = image.replace('.svg', ''); // Remove ".svg"
+
+          div.innerHTML = `
+            <div class="card h-100">
+              <div class="card-body d-flex align-items-center">
+                <input type="checkbox" value="${image}" class="form-check-input me-2">
+                <img src="${baseImagePath}${image}" alt="${image}" class="img-thumbnail me-3">
+                <span>${fileNameWithoutExtension}</span>
+              </div>
+            </div>
+          `;
+
+          const imgElement = div.querySelector('img');
+          const checkbox = div.querySelector('input[type="checkbox"]');
+
+          // Ajustar tamaño según el ancho de la imagen original
+          imgElement.onload = () => {
+            if (imgElement.naturalWidth <= 256) {
+              imgElement.style.width = '128px';
+            } else {
+              imgElement.style.width = '256px';
+            }
+            imgElement.style.backgroundImage = 'linear-gradient(to bottom, #f4ffe9, #81ff03)';
+          };
+
+          // Alternar checkbox al hacer clic en la imagen
+          imgElement.addEventListener('click', () => {
+            checkbox.checked = !checkbox.checked;
+          });
+
+          imageListDiv.appendChild(div);
+        });
+      } catch (error) {
+        console.error('Error loading image list:', error);
+      }
+    }
+
+    // Generar el código al hacer clic en el botón
+    document.getElementById('generateCode').addEventListener('click', () => {
+      const directory = document.getElementById('directory').value.trim();
+      if (!directory) {
+        alert('Please enter a directory name.');
+        return;
+      }
+
+      const selectedImages = Array.from(document.querySelectorAll('#imageList input:checked'))
+        .map(checkbox => checkbox.value);
+      
+      if (selectedImages.length === 0) {
+        alert('Please select at least one image.');
+        return;
+      }
+
+      const code = selectedImages.map(image => 
+        `/tool fetch url=${baseImagePath}${image} mode=https dst-path=${directory}/files/images/${image} as-value`
+      ).join('\n');
+
+      document.getElementById('outputCode').value = code;
+    });
+
+    // Copiar el código al portapapeles
+    document.getElementById('copyCode').addEventListener('click', () => {
+      const outputCode = document.getElementById('outputCode');
+      outputCode.select();
+      document.execCommand('copy');
+      alert('Code copied to clipboard!');
+    });
+
+    // Seleccionar todas las imágenes
+    document.getElementById('selectAll').addEventListener('click', () => {
+      document.querySelectorAll('#imageList input[type="checkbox"]').forEach(checkbox => checkbox.checked = true);
+    });
+
+    // Deseleccionar todas las imágenes
+    document.getElementById('deselectAll').addEventListener('click', () => {
+      document.querySelectorAll('#imageList input[type="checkbox"]').forEach(checkbox => checkbox.checked = false);
+    });
+
+    // Cargar la lista de imágenes al inicio
+    loadImageList();
+  </script>
+</body>
+</html>
