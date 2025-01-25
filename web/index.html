@@ -19,6 +19,13 @@
 
   <!-- Bootstrap CSS -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet">
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js"></script>
+
+  <!-- fontawesome.com - v6.7.2 -->
+  <script src="https://kit.fontawesome.com/3f6895bc2f.js" crossorigin="anonymous"></script>
+
   <style>
     .image-item img {
       height: auto;
@@ -58,6 +65,20 @@
     .bg-acked {
       background-image: linear-gradient(to bottom, #f3f9ff, #2b95ff);
     }
+    .float-up {
+      position: fixed;
+      width: 60px;
+      height: 60px;
+      bottom: 5%;
+      right: 40px;
+      background-color: #6c757d;
+      color: #FFF;
+      border-radius: 50px;
+      text-align: center;
+      font-size: 30px;
+      z-index: 100;
+      display: none;
+    }
   </style>
 </head>
 <body class="bg-light">
@@ -92,7 +113,8 @@
         <textarea id="outputCode" rows="8" class="form-control" readonly></textarea>
         <div class="d-flex justify-content-end mt-3">
           <button id="copyCode" class="btn btn-success me-2">Copy Code</button>
-          <button id="downloadRsc" class="btn btn-info text-white">Download RSC</button>
+          <button id="downloadRsc" class="btn btn-info me-2 text-white">Download RSC</button>
+          <button id="downloadZIPButton" class="btn btn-info text-white">Download ZIP</button>
         </div>
       </div>
     </div>
@@ -107,10 +129,8 @@
   <!-- Bootstrap JS Bundle with Popper -->
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"></script>
   <script>
-    // Path for images
     const baseImagePath = 'https://raw.githubusercontent.com/HybridNetworks/mikrotik-dude-icons/main/images/';
 
-    // Function to load list of images from txt file
     async function loadImageList() {
       try {
         const response = await fetch('https://raw.githubusercontent.com/HybridNetworks/mikrotik-dude-icons/refs/heads/main/images_list.txt');
@@ -136,7 +156,6 @@
           const imgElement = div.querySelector('img');
           const checkbox = div.querySelector('input[type="checkbox"]');
 
-          // Ajustar tamaño según el ancho de la imagen original
           imgElement.onload = () => {
             if (imgElement.naturalWidth <= 256) {
               imgElement.style.width = '128px';
@@ -145,7 +164,6 @@
             }
           };
 
-          // Alternar checkbox al hacer clic en la imagen
           imgElement.addEventListener('click', () => {
             checkbox.checked = !checkbox.checked;
           });
@@ -157,7 +175,6 @@
       }
     }
 
-    // Generar el código al hacer clic en el botón
     document.getElementById('generateCode').addEventListener('click', () => {
       const directory = document.getElementById('directory').value.trim();
       if (!directory) {
@@ -216,7 +233,6 @@
       link.click();
     });
 
-    // Copiar el código al portapapeles
     document.getElementById('copyCode').addEventListener('click', () => {
       const outputCode = document.getElementById('outputCode');
       if (!outputCode.value.trim()) {
@@ -228,7 +244,6 @@
       showToast('Code copied to clipboard!', 'success');
     });
 
-    // Event listeners for buttons
     const setBackgroundClass = (className) => {
       document.querySelectorAll('.img-thumbnail').forEach(card => {
         card.className = `img-thumbnail me-3 ${className}`;
@@ -240,20 +255,16 @@
     document.getElementById('btnComplete').addEventListener('click', () => setBackgroundClass('bg-complete'));
     document.getElementById('btnAcked').addEventListener('click', () => setBackgroundClass('bg-acked'));
 
-    // Seleccionar todas las imágenes
     document.getElementById('selectAll').addEventListener('click', () => {
       document.querySelectorAll('#imageList input[type="checkbox"]').forEach(checkbox => checkbox.checked = true);
     });
 
-    // Deseleccionar todas las imágenes
     document.getElementById('deselectAll').addEventListener('click', () => {
       document.querySelectorAll('#imageList input[type="checkbox"]').forEach(checkbox => checkbox.checked = false);
     });
 
-    // Cargar la lista de imágenes al inicio
     loadImageList();
 
-    // Función para mostrar Toast
     function showToast(message, type = 'info') {
       const toastContainer = document.getElementById('toastContainer');
       
@@ -273,23 +284,85 @@
       `;
       
       toastContainer.appendChild(toast);
-      
-      // Inicializa el Toast
+
       const bootstrapToast = new bootstrap.Toast(toast);
       bootstrapToast.show();
-      
-      // Remueve el Toast después de que se oculta
+
       toast.addEventListener('hidden.bs.toast', () => {
         toast.remove();
       });
     }
 
+    document.getElementById('downloadZIPButton').addEventListener('click', async () => {
+      const selectedImages = Array.from(document.querySelectorAll('#imageList input:checked'))
+        .map(checkbox => checkbox.value);
 
+      if (selectedImages.length === 0) {
+        showToast('Please select at least one image to download.', 'warning');
+        return;
+      }
+
+      const zip = new JSZip();
+      const imageFolder = zip.folder("images"); // Create a folder inside the ZIP for images
+
+      const downloadPromises = selectedImages.map(async (imageName) => {
+        const imageUrl = `${baseImagePath}${imageName}`;
+        try {
+          const response = await fetch(imageUrl);
+          if (!response.ok) throw new Error(`Failed to fetch ${imageUrl}`);
+          const blob = await response.blob();
+          imageFolder.file(imageName, blob); // Add image to the ZIP folder
+        } catch (error) {
+          console.error(`Error downloading image: ${imageName}`, error);
+        }
+      });
+
+      // Wait for all image downloads to complete
+      await Promise.all(downloadPromises);
+
+      // Generate ZIP and trigger download
+      zip.generateAsync({ type: "blob" }).then((zipBlob) => {
+        saveAs(zipBlob, "dude-icons.zip");
+      }).catch(error => {
+        console.error('Error generating ZIP file:', error);
+      });
+    });
+
+    document.addEventListener('DOMContentLoaded', function() {
+        const upTopButton = document.getElementById('upTop');
+    
+        // Funcionalidad del botón Up Top
+        upTopButton.addEventListener('click', function(e) {
+            e.preventDefault(); // Evitar el comportamiento por defecto del enlace
+            window.scrollTo({ top: 0, behavior: 'smooth' }); // Desplazarse hacia arriba
+            upTopButton.style.display = 'none'; // Ocultar el botón
+        });
+
+        // Ocultar el botón al llegar a la parte superior
+        window.addEventListener('scroll', function() {
+            if (window.scrollY === 0) {
+                upTopButton.style.display = 'none'; // Ocultar el botón si estamos en la parte superior
+            }
+        });
+        // Mostrar/Ocultar el botón al hacer scroll
+        window.addEventListener('scroll', function() {
+            if (window.scrollY > 100) { // Mostrar botón si se ha desplazado más de 100px
+                upTopButton.style.display = 'block';
+            } else {
+                upTopButton.style.display = 'none'; // Ocultar si estamos cerca de la parte superior
+            }
+        });
+    });
   </script>
 
 <!-- Toast Container -->
 <div id="toastContainer" class="toast-container position-fixed bottom-0 end-0 p-3">
 </div>
+
+<!-- Up Top -->
+<a id="upTop" href="#" class="float-up">
+  <i class="fa-solid fa-arrow-up" style="margin-top:16px;"></i>
+</a>
 
 </body>
 </html>

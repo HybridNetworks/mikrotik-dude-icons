@@ -181,9 +181,9 @@ You can change the background color of the selected icons using the buttons "Up"
 
 Click the "Generate Code" button.
 
-**5.- Copy Code & Download RSC Script**
+**5.- Copy Code & Download RSC Script & Download Zip**
 
-You can copy the generated code to your clipboard by clicking the "Copy Code" button. If you want to download the generated code as a script file, click the "Download RSC" button. This will create a file named dude-icons.rsc containing the script and save it to your computer.
+You can copy the generated code to your clipboard by clicking the "Copy Code" button. If you want to download the generated code as a script file, click the "Download RSC" button. This will create a file named dude-icons.rsc containing the script and save it to your computer. You can also select images and download a zip file, click the "Download ZIP" button.
 
 **Additional Notes**
 * Web browser with JavaScript support.
