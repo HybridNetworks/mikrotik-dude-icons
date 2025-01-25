@@ -16,6 +16,8 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 
 |      Icon ID                |                         Icon                                    |
 | :-------------------------: | :-------------------------------------------------------------: |
+| `aws-site-to-site-vpn-1`    | <img src="./images/aws-site-to-site-vpn-1.svg" width="64">      |
+| `aws-vpn-1`                 | <img src="./images/aws-vpn-1.svg" width="64">                   |
 | `iconpack-barrier-1`        | <img src="./images/iconpack-barrier-1.svg" width="64">          |
 | `iconpack-background-1`     | <img src="./images/iconpack-background-1.svg" width="64">       |
 | `iconpack-foreground-1`     | <img src="./images/iconpack-foreground-1.svg" width="64">       |
@@ -29,6 +31,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 | `iconpack-folder-backup-2`  | <img src="./images/iconpack-folder-backup-2.svg" width="64">    |
 | `iconpack-folder-share-1`   | <img src="./images/iconpack-folder-share-1.svg" width="64">     |
 | `iconpack-gear-1`           | <img src="./images/iconpack-gear-1.svg" width="64">             |
+| `iconpack-heart-1`          | <img src="./images/iconpack-heart-1.svg" width="64">            |
 | `iconpack-net-firewall-1`   | <img src="./images/iconpack-net-firewall-1.svg" width="64">     |
 | `iconpack-net-hub-1`        | <img src="./images/iconpack-net-hub-1.svg" width="64">          |
 | `iconpack-net-monitor-1`    | <img src="./images/iconpack-net-monitor-1.svg" width="64">      |

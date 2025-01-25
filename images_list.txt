@@ -1,3 +1,5 @@
+aws-site-to-site-vpn-1.svg
+aws-vpn-1.svg
 iconpack-background-1.svg
 iconpack-barrier-1.svg
 iconpack-cam-1.svg
@@ -11,6 +13,7 @@ iconpack-folder-backup-2.svg
 iconpack-folder-share-1.svg
 iconpack-foreground-1.svg
 iconpack-gear-1.svg
+iconpack-heart-1.svg
 iconpack-net-firewall-1.svg
 iconpack-net-hub-1.svg
 iconpack-net-monitor-1.svg
