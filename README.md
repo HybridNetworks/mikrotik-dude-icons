@@ -156,6 +156,34 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 
 ## 🛠️ Usage
 
+### Web [Code Generator](https://hybridnetworks.github.io/mikrotik-dude-icons/)
+
+**1.- Open the Web Code Generator**
+
+Navigate to the web tool page where you can select your desired icons and generate the corresponding code.
+
+**2.- Set the Installation Directory**
+
+In the "Installation directory of The Dude" input field, enter the desired directory path where the icons will be stored. Examples: `dude`, `slot1-part1/dude`, `sata1/dude-data`, etc.
+
+**3.- Select the Icons**
+
+You can select icons by clicking the checkboxes next to each image. You can also use the "Select All" or "Deselect All" buttons to quickly select or deselect multiple icons. 
+
+You can change the background color of the selected icons using the buttons "Up", "Partial", "Complete", and "Acked" to preview what the icon would look like in The Dude.
+
+**4.- Generate the Code**
+
+Click the "Generate Code" button.
+
+**5.- Copy Code & Download RSC Script**
+
+You can copy the generated code to your clipboard by clicking the "Copy Code" button. If you want to download the generated code as a script file, click the "Download RSC" button. This will create a file named dude-icons.rsc containing the script and save it to your computer.
+
+**Additional Notes**
+* Web browser with JavaScript support.
+* Internet connection to fetch icons and generate the code.
+
 ### Mikrotik RouterOS v7 & CHR
 
 **1.- Set the Global Variable**
@@ -229,3 +257,6 @@ Thank you so much already for using my projects! If you want to go a step furthe
 [![Support in Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-in%20BuyMeaCoffee-ffed00?style=for-the-badge)](https://www.buymeacoffee.com/hybridnetworks)
 
 To support the project directly, feel free to open issues for icon suggestions, or contribute with a pull request!
+
+
+
