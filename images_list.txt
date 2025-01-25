@@ -85,6 +85,8 @@ logo-siu-sudocu-1.svg
 logo-siu-wichi-1.svg
 logo-the-dude-1.svg
 logo-the-dude-2.svg
+logo-the-dude-3.svg
+logo-the-dude-4.svg
 logo-ubiquiti-1.svg
 logo-ubiquiti-2.svg
 logo-ubiquiti-3.svg

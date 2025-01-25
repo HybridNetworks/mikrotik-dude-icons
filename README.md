@@ -76,6 +76,8 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 | `logo-siu-wichi-1`          | <img src="./images/logo-siu-wichi-1.svg" width="64">            |
 | `logo-the-dude-1`           | <img src="./images/logo-the-dude-1.svg" width="64">             |
 | `logo-the-dude-2`           | <img src="./images/logo-the-dude-2.svg" width="64">             |
+| `logo-the-dude-3`           | <img src="./images/logo-the-dude-3.svg" width="64">             |
+| `logo-the-dude-4`           | <img src="./images/logo-the-dude-4.svg" width="64">             |
 | `logo-sap-1`                | <img src="./images/logo-sap-1.svg" width="64">                  |
 | `logo-ubiquiti-1`           | <img src="./images/logo-ubiquiti-1.svg" width="64">             |
 | `logo-ubiquiti-2`           | <img src="./images/logo-ubiquiti-2.svg" width="64">             |

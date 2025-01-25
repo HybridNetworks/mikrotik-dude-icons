@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   data-name="Dude"
+   viewBox="0 0 256 256"
+   version="1.1"
+   id="svg8"
+   width="256"
+   height="256"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+
+  <title property="dc:title">The Dude - Mikrotik</title>
+  <desc property="dc:creator">danielcshn</desc>
+
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient8">
+      <stop
+         style="stop-color:#f50000;stop-opacity:1;"
+         offset="0"
+         id="stop8" />
+      <stop
+         style="stop-color:#821515;stop-opacity:1;"
+         offset="1"
+         id="stop9" />
+    </linearGradient>
+    <radialGradient
+       xlink:href="#linearGradient8"
+       id="radialGradient9"
+       cx="105.13547"
+       cy="148.20457"
+       fx="105.13547"
+       fy="148.20457"
+       r="25.864967"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <path
+     style="fill:none"
+     d="M 0,0 H 256 V 256 H 0 Z"
+     id="path2" />
+  <g
+     id="layer1"
+     transform="matrix(3.6673135,0,0,3.6673135,-255.22669,-416.2942)">
+    <circle
+       style="fill:url(#radialGradient9);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.321675;stroke-opacity:1"
+       id="path3-2"
+       cx="105.13547"
+       cy="148.20457"
+       r="25.864967" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#272727;stroke-width:0.264583;stroke-opacity:1"
+       d="m 77.286243,136.53903 15.82528,-10.39684 -1.196097,5.70446 3.58829,-2.20818 2.208178,-8.64869 -9.200743,-2.11618 -4.140335,2.66822 6.164498,1.1961 -15.641264,10.21282 z"
+       id="path1" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#272727;stroke-width:0.264583;stroke-opacity:1"
+       d="m 113.75434,118.61862 14.82452,11.77995 -0.67744,-5.78901 3.37482,2.5224 1.42022,8.81243 -9.35394,1.27888 -3.88319,-3.0303 6.24717,-0.636 -14.65783,-11.58011 z"
+       id="path1-4" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#272727;stroke-width:0.264583;stroke-opacity:1"
+       d="m 131.24537,159.2507 -14.28325,12.4307 0.41805,-5.8135 -3.25872,2.67071 -1.02497,8.86709 9.40177,0.85956 3.74387,-3.20081 -6.26936,-0.35617 14.12566,-12.22362 z"
+       id="path1-7" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#272727;stroke-width:0.264583;stroke-opacity:1"
+       d="m 98.71847,174.04937 -15.66905,-10.63085 5.727195,-1.08201 -3.415023,-2.46768 -8.834479,1.27588 1.572485,9.30909 4.051542,2.80122 -1.258367,-6.1521 15.428548,10.53143 z"
+       id="path1-2" />
+  </g>
+</svg>
