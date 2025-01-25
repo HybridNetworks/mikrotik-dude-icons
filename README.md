@@ -3,12 +3,12 @@
 > [!NOTE]
 > To keep icons consistent and to ensure The Dude support, we don't accept pull requests for icon submissions. If you would like an icon added, please open an issue.
 
-## Example
+# Example
 
 <p align="center"><img align="center" src="./.github/example-dark.png#gh-dark-mode-only"/></p>
 <p align="center"><img align="center" src="./.github/example-light.png#gh-light-mode-only"/></p>
 
-## 📙 Icons List
+# 📙 Icons List
 
 Here's a list of all the icons currently supported. Feel free to open an issue to suggest icons to add!
 
@@ -154,11 +154,11 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 
 ---
 
-## 🛠️ Usage
+# 🛠️ Usage
 
-### Web [Code Generator](https://hybridnetworks.github.io/mikrotik-dude-icons/)
+## Web Code Generator
 
-**1.- Open the Web Code Generator**
+**1.- Open the Web [Code Generator](https://hybridnetworks.github.io/mikrotik-dude-icons/)**
 
 Navigate to the web tool page where you can select your desired icons and generate the corresponding code.
 
@@ -184,7 +184,7 @@ You can copy the generated code to your clipboard by clicking the "Copy Code" bu
 * Web browser with JavaScript support.
 * Internet connection to fetch icons and generate the code.
 
-### Mikrotik RouterOS v7 & CHR
+## Mikrotik RouterOS v7 & CHR
 
 **1.- Set the Global Variable**
 
@@ -220,7 +220,7 @@ Remove the installer script and any global variables used during the installatio
 * Check the logs for any errors during the installation process to troubleshoot if needed.
 * **Don't forget to reboot the system to apply the changes.**
 
-### Mikrotik The Dude 4.0beta3
+## Mikrotik The Dude 4.0beta3
 
 **1.- Download the ZIP File**
 
@@ -246,7 +246,7 @@ Copy the extracted files to the installation directory of The Dude.
 
 ---
 
-## 💖 Support the Project
+# 💖 Support the Project
 
 Thank you so much already for using my projects! If you want to go a step further and support my open source work, buy me a coffee:
 
