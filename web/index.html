@@ -79,6 +79,26 @@
       z-index: 100;
       display: none;
     }
+    @media (max-width: 992px) {
+      .name-text {
+        display: none;
+      }
+      .bg-up {
+        --bs-btn-padding-x: -0.25rem;
+      }
+      .bg-partial {
+        --bs-btn-padding-x: -0.25rem;
+      }
+      .bg-complete {
+        --bs-btn-padding-x: -0.25rem;
+      }
+      .bg-acked {
+        --bs-btn-padding-x: -0.25rem;
+      }
+      .btn-secondary {
+        --bs-btn-padding-x: -0.25rem;
+      }
+    }
   </style>
 </head>
 <body class="bg-light">
@@ -157,10 +177,13 @@
           const checkbox = div.querySelector('input[type="checkbox"]');
 
           imgElement.onload = () => {
+            const isSmallScreen = window.innerWidth < 992;
             if (imgElement.naturalWidth <= 256) {
-              imgElement.style.width = '128px';
+              //imgElement.style.width = '128px';
+              imgElement.style.width = isSmallScreen ? '64px' : '128px';
             } else {
-              imgElement.style.width = '256px';
+              //imgElement.style.width = '256px';
+              imgElement.style.width = isSmallScreen ? '87px' : '256px';
             }
           };
 
@@ -353,6 +376,42 @@
             }
         });
     });
+  </script>
+
+  <script>
+    function checkResolution() {
+      const minWidth = 430;
+      let warningBar = document.getElementById("resolutionWarning");
+  
+      if (window.innerWidth < minWidth) {
+        if (!warningBar) {
+          // Crear el aviso si no existe
+          warningBar = document.createElement("div");
+          warningBar.id = "resolutionWarning";
+          warningBar.style.position = "fixed";
+          warningBar.style.top = "0";
+          warningBar.style.left = "0";
+          warningBar.style.width = "100%";
+          warningBar.style.backgroundColor = "#ff4d4d";
+          warningBar.style.color = "white";
+          warningBar.style.textAlign = "center";
+          warningBar.style.padding = "10px";
+          warningBar.style.fontSize = "1rem";
+          warningBar.style.zIndex = "9999";
+          warningBar.textContent = "⚠️ Site is not optimized for this resolution.";
+          document.body.appendChild(warningBar);
+        }
+      } else {
+        // Eliminar el aviso si existe y la resolución es válida
+        if (warningBar) {
+          warningBar.remove();
+        }
+      }
+    }
+  
+    // Revisar la resolución al cargar y al redimensionar
+    window.addEventListener("load", checkResolution);
+    window.addEventListener("resize", checkResolution);
   </script>
 
 <!-- Toast Container -->
