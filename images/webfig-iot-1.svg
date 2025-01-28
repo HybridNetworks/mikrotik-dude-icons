@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   data-name="Capa 1"
+   viewBox="0 0 256 256"
+   version="1.1"
+   id="svg8"
+   xml:space="preserve"
+   width="256"
+   height="256"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs2" /><path
+     style="fill:none"
+     d="M 0,0 H 256 V 256 H 0 Z"
+     id="path2" /><g
+     id="g8"
+     transform="matrix(12.57388,0,0,12.57388,2.2612,-4.02574)"><path
+       fill="none"
+       stroke="#145656"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="1.5"
+       d="m 6,8 v 8 H 3 m 9,-6 v 6 h 5 M 9,10 v 8"
+       id="path1" /><path
+       fill="none"
+       stroke="#3ca384"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="1.5"
+       d="M 15,13.72 C 16.74,13.1 18,11.45 18,9.5 18,7.01 15.99,5 13.5,5 12.72,5 11.99,5.22 11.35,5.57 10.49,4.04 8.88,3 7,3 4.24,3 2,5.24 2,8 c 0,1.12 0.38,2.14 1,2.97"
+       id="path2-3" /></g></svg>

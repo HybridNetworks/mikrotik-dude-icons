@@ -48,6 +48,8 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 | `iot-thermometer-2`         | <img src="./images/iot-thermometer-2.svg" width="64">           |
 | `iot-thermometer-3`         | <img src="./images/iot-thermometer-3.svg" width="64">           |
 | `iot-thermometer-4`         | <img src="./images/iot-thermometer-4.svg" width="64">           |
+| `logo-ansible-1`            | <img src="./images/logo-ansible-1.svg" width="64">              |
+| `logo-ansible-2`            | <img src="./images/logo-ansible-2.svg" width="64">              |
 | `logo-asterisk-1`           | <img src="./images/logo-asterisk-1.svg" width="64">             |
 | `logo-azure-1`              | <img src="./images/logo-azure-1.svg" width="64">                |
 | `logo-chrome-1`             | <img src="./images/logo-chrome-1.svg" width="64">               |
@@ -125,6 +127,31 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 | `ui-unifi-uap-2`            | <img src="./images/ui-unifi-uap-2.svg" width="64">              |
 | `ui-unifi-uap-3`            | <img src="./images/ui-unifi-uap-3.svg" width="64">              |
 | `ui-unifi-uap-edu-1`        | <img src="./images/ui-unifi-uap-edu-1.svg" width="64">          |
+
+### 📦 WebFig
+
+|      Icon ID                |                         Icon                                    |
+| :-------------------------: | :-------------------------------------------------------------: |
+| `webfig-configuration-1`    | <img src="./images/webfig-configuration-1.svg" width="64">      |
+| `webfig-dude-1`             | <img src="./images/webfig-dude-1.svg" width="64">               |
+| `webfig-files-1`            | <img src="./images/webfig-files-1.svg" width="64">              |
+| `webfig-graph-1`            | <img src="./images/webfig-graph-1.svg" width="64">              |
+| `webfig-interfaces-1`       | <img src="./images/webfig-interfaces-1.svg" width="64">         |
+| `webfig-iot-1`              | <img src="./images/webfig-iot-1.svg" width="64">                |
+| `webfig-ipv4-1`             | <img src="./images/webfig-ipv4-1.svg" width="64">               |
+| `webfig-ipv6-1`             | <img src="./images/webfig-ipv6-1.svg" width="64">               |
+| `webfig-log-1`              | <img src="./images/webfig-log-1.svg" width="64">                |
+| `webfig-mesh-1`             | <img src="./images/webfig-mesh-1.svg" width="64">               |
+| `webfig-mpls-1`             | <img src="./images/webfig-mpls-1.svg" width="64">               |
+| `webfig-nat-1`              | <img src="./images/webfig-nat-1.svg" width="64">                |
+| `webfig-ppp-1`              | <img src="./images/webfig-ppp-1.svg" width="64">                |
+| `webfig-queues-1`           | <img src="./images/webfig-queues-1.svg" width="64">             |
+| `webfig-radius-1`           | <img src="./images/webfig-radius-1.svg" width="64">             |
+| `webfig-terminal-1`         | <img src="./images/webfig-terminal-1.svg" width="64">           |
+| `webfig-vm-1`               | <img src="./images/webfig-vm-1.svg" width="64">                 |
+| `webfig-wifi-1`             | <img src="./images/webfig-wifi-1.svg" width="64">               |
+| `webfig-wireguard-1`        | <img src="./images/webfig-wireguard-1.svg" width="64">          |
+| `webfig-zerotier-1`         | <img src="./images/webfig-zerotier-1.svg" width="64">           |
 
 ### 📦 Companies Pack
 
