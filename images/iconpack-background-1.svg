@@ -1,15 +1,1 @@
-<svg id="uuid-19907d1f-9315-477d-b7ba-91ae3e2acc9a" data-name="Capa 1" version="1.1" xml:space="preserve" width="256" height="256" xmlns="http://www.w3.org/2000/svg">
-    <defs id="defs2">
-        <style id="style1">
-            .uuid-153302a6-b94e-4ad0-9cfb-43725c5c5610{fill:url(#uuid-af07a271-8980-47e6-b92b-41550c7dc68a)}.uuid-27fce091-ee3a-4889-9199-28416b94f462{fill:url(#uuid-dc53e15d-e646-4f9b-aab3-d9d8fec05b0e)}.uuid-ed4306aa-b6e6-45eb-bfe3-e4f85f33ea76{fill:url(#uuid-afdc0b81-5c65-49b4-9e34-1cf3c2f4f8f7)}.uuid-03bde706-b35e-416f-8ae5-693e38f68253{fill:url(#uuid-8e0b3ff5-2b0d-4ede-9e3a-d9af7f50b81e)}.uuid-aed79b63-67fc-4862-91f2-2516d39da3fa{fill:url(#uuid-5be9ed93-6987-4def-8687-537049e4e1cf)}.uuid-7fb198ab-10f1-4f2d-9a38-66668a795b4d{fill:url(#uuid-ebe94990-143f-470c-b744-73e231e6133d)}
-        </style>
-    </defs>
-    <path id="rect2" style="fill:none" d="M0 0h256v256H0z"/>
-    <g id="g3" transform="matrix(3.72537 0 0 3.72537 18.102 18.102)">
-        <g id="g2">
-            <path style="fill:#26b99a" d="M13 16.81A3.81 3.81 0 0 1 16.81 13H47V4.81A3.81 3.81 0 0 0 43.19 1H4.81A3.81 3.81 0 0 0 1 4.81v38.38A3.81 3.81 0 0 0 4.81 47H13Z" id="path1"/>
-            <path style="fill:#26b99a" d="M14 48H4.81A4.815 4.815 0 0 1 0 43.19V4.81A4.815 4.815 0 0 1 4.81 0h38.38A4.815 4.815 0 0 1 48 4.81V14H16.81A2.814 2.814 0 0 0 14 16.81ZM4.81 2A2.814 2.814 0 0 0 2 4.81v38.38A2.814 2.814 0 0 0 4.81 46H12V16.81A4.815 4.815 0 0 1 16.81 12H46V4.81A2.814 2.814 0 0 0 43.19 2Z" id="path2-4"/>
-        </g>
-        <path style="fill:#556080" d="M55.19 59H16.81A3.81 3.81 0 0 1 13 55.19V16.81A3.81 3.81 0 0 1 16.81 13h38.38A3.81 3.81 0 0 1 59 16.81v38.38A3.81 3.81 0 0 1 55.19 59Z" id="path3-8"/>
-    </g>
-</svg>
+<svg data-name="C1" xml:space="preserve" width="256" height="256" xmlns="http://www.w3.org/2000/svg"><path style="fill:none" d="M0 0h256v256H0z"/><path style="fill:#26b99a" d="M13 16.81A3.81 3.81 0 0 1 16.81 13H47V4.81A3.81 3.81 0 0 0 43.19 1H4.81A3.81 3.81 0 0 0 1 4.81v38.38A3.81 3.81 0 0 0 4.81 47H13Z" transform="translate(18.102 18.102)scale(3.72537)"/><path style="fill:#26b99a" d="M14 48H4.81A4.815 4.815 0 0 1 0 43.19V4.81A4.815 4.815 0 0 1 4.81 0h38.38A4.815 4.815 0 0 1 48 4.81V14H16.81A2.814 2.814 0 0 0 14 16.81ZM4.81 2A2.814 2.814 0 0 0 2 4.81v38.38A2.814 2.814 0 0 0 4.81 46H12V16.81A4.815 4.815 0 0 1 16.81 12H46V4.81A2.814 2.814 0 0 0 43.19 2Z" transform="translate(18.102 18.102)scale(3.72537)"/><path style="fill:#556080" d="M55.19 59H16.81A3.81 3.81 0 0 1 13 55.19V16.81A3.81 3.81 0 0 1 16.81 13h38.38A3.81 3.81 0 0 1 59 16.81v38.38A3.81 3.81 0 0 1 55.19 59" transform="translate(18.102 18.102)scale(3.72537)"/></svg>
