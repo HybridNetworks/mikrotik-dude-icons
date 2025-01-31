@@ -60,9 +60,11 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 | `logo-github-2`             | <img src="./images/logo-github-2.svg" width="64">               |
 | `logo-google-1`             | <img src="./images/logo-google-1.svg" width="64">               |
 | `logo-grafana-1`            | <img src="./images/logo-grafana-1.svg" width="64">              |
+| `logo-huawei-1`             | <img src="./images/logo-huawei-1.svg" width="64">               |
 | `logo-kubernetes-1`         | <img src="./images/logo-kubernetes-1.svg" width="64">           |
 | `logo-mikrotik-1`           | <img src="./images/logo-mikrotik-1.svg" width="64">             |
 | `logo-mikrotik-2`           | <img src="./images/logo-mikrotik-2.svg" width="64">             |
+| `logo-netxms-1`             | <img src="./images/logo-netxms-1.svg" width="64">               |
 | `logo-openvpn-1`            | <img src="./images/logo-openvpn-1.svg" width="64">              |
 | `logo-openvpn-2`            | <img src="./images/logo-openvpn-2.svg" width="64">              |
 | `logo-openvpn-3`            | <img src="./images/logo-openvpn-3.svg" width="64">              |
@@ -89,7 +91,9 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 | `logo-ubiquiti-3`           | <img src="./images/logo-ubiquiti-3.svg" width="64">             |
 | `logo-ubiquiti-4`           | <img src="./images/logo-ubiquiti-4.svg" width="64">             |
 | `logo-ubiquiti-5`           | <img src="./images/logo-ubiquiti-5.svg" width="64">             |
+| `logo-unimus-1`             | <img src="./images/logo-unimus-1.svg" width="64">               |
 | `logo-vmware-1`             | <img src="./images/logo-vmware-1.svg" width="64">               |
+| `logo-vsol-2`               | <img src="./images/logo-vsol-2.svg" width="64">                 |
 | `logo-wikijs-1`             | <img src="./images/logo-wikijs-1.svg" width="64">               |
 | `logo-winbox3-1`            | <img src="./images/logo-winbox3-1.svg" width="64">              |
 | `logo-zabbix-1`             | <img src="./images/logo-zabbix-1.svg" width="64">               |
@@ -177,8 +181,12 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 | `isp-telecom-2`             | <img src="./images/isp-telecom-2.svg" width="128">              |
 | `logo-aws-1`                | <img src="./images/logo-aws-1.svg" width="128">                 |
 | `logo-aws-2`                | <img src="./images/logo-aws-2.svg" width="128">                 |
+| `logo-cisco-1`              | <img src="./images/logo-cisco-1.svg" width="128">               |
+| `logo-cisco-2`              | <img src="./images/logo-cisco-2.svg" width="128">               |
 | `logo-fortinet-3`           | <img src="./images/logo-fortinet-3.svg" width="128">            |
 | `logo-paloalto-2`           | <img src="./images/logo-paloalto-2.svg" width="128">            |
+| `logo-tplink-1`             | <img src="./images/logo-tplink-1.svg" width="128">              |
+| `logo-vsol-1`               | <img src="./images/logo-vsol-1.svg" width="128">                |
 | `logo-hybridnetworks-1`     | <img src="./images/logo-hybridnetworks-1.svg" width="128">      |
 | `logo-hybridnetworks-2`     | <img src="./images/logo-hybridnetworks-2.svg" width="128">      |
 | `logo-hybridnetworks-3`     | <img src="./images/logo-hybridnetworks-3.svg" width="128">      |

@@ -55,6 +55,8 @@ logo-aws-1.svg
 logo-aws-2.svg
 logo-azure-1.svg
 logo-chrome-1.svg
+logo-cisco-1.svg
+logo-cisco-2.svg
 logo-digital-ocean-1.svg
 logo-fortinet-1.svg
 logo-fortinet-2.svg
@@ -63,6 +65,7 @@ logo-github-1.svg
 logo-github-2.svg
 logo-google-1.svg
 logo-grafana-1.svg
+logo-huawei-1.svg
 logo-hybridnetworks-1.svg
 logo-hybridnetworks-2.svg
 logo-hybridnetworks-3.svg
@@ -70,6 +73,7 @@ logo-hybridnetworks-4.svg
 logo-kubernetes-1.svg
 logo-mikrotik-1.svg
 logo-mikrotik-2.svg
+logo-netxms-1.svg
 logo-openvpn-1.svg
 logo-openvpn-2.svg
 logo-openvpn-3.svg
@@ -92,12 +96,16 @@ logo-the-dude-1.svg
 logo-the-dude-2.svg
 logo-the-dude-3.svg
 logo-the-dude-4.svg
+logo-tplink-1.svg
 logo-ubiquiti-1.svg
 logo-ubiquiti-2.svg
 logo-ubiquiti-3.svg
 logo-ubiquiti-4.svg
 logo-ubiquiti-5.svg
+logo-unimus-1.svg
 logo-vmware-1.svg
+logo-vsol-1.svg
+logo-vsol-2.svg
 logo-wikijs-1.svg
 logo-winbox3-1.svg
 logo-zabbix-1.svg
