@@ -62,6 +62,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 | `logo-grafana-1`            | <img src="./images/logo-grafana-1.svg" width="64">              |
 | `logo-huawei-1`             | <img src="./images/logo-huawei-1.svg" width="64">               |
 | `logo-kubernetes-1`         | <img src="./images/logo-kubernetes-1.svg" width="64">           |
+| `logo-librenms-2`           | <img src="./images/logo-librenms-2.svg" width="64">             |
 | `logo-mikrotik-1`           | <img src="./images/logo-mikrotik-1.svg" width="64">             |
 | `logo-mikrotik-2`           | <img src="./images/logo-mikrotik-2.svg" width="64">             |
 | `logo-netxms-1`             | <img src="./images/logo-netxms-1.svg" width="64">               |
@@ -187,6 +188,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 | `logo-paloalto-2`           | <img src="./images/logo-paloalto-2.svg" width="128">            |
 | `logo-tplink-1`             | <img src="./images/logo-tplink-1.svg" width="128">              |
 | `logo-vsol-1`               | <img src="./images/logo-vsol-1.svg" width="128">                |
+| `logo-librenms-1`           | <img src="./images/logo-librenms-1.svg" width="128">             |
 | `logo-hybridnetworks-1`     | <img src="./images/logo-hybridnetworks-1.svg" width="128">      |
 | `logo-hybridnetworks-2`     | <img src="./images/logo-hybridnetworks-2.svg" width="128">      |
 | `logo-hybridnetworks-3`     | <img src="./images/logo-hybridnetworks-3.svg" width="128">      |

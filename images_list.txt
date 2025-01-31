@@ -71,6 +71,8 @@ logo-hybridnetworks-2.svg
 logo-hybridnetworks-3.svg
 logo-hybridnetworks-4.svg
 logo-kubernetes-1.svg
+logo-librenms-1.svg
+logo-librenms-2.svg
 logo-mikrotik-1.svg
 logo-mikrotik-2.svg
 logo-netxms-1.svg
