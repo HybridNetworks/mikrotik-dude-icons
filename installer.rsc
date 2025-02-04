@@ -29,7 +29,7 @@ add comment="mikrotik-dude-icons pack download script" dont-require-permissions=
     \n:local imageDir (\$dudeDir . \"/files/images/\");\
     \n\
     \n# URL of the file containing the list of images\
-    \n:local fileUrl \"https://raw.githubusercontent.com/danielcshn/mikrotik-dude-icons/main/images_list.txt\"\
+    \n:local fileUrl \"https://raw.githubusercontent.com/HybridNetworks/mikrotik-dude-icons/main/images_list.txt\"\
     \n\
     \n# Fetch the image list from the URL\
     \n:local imgList ([/tool fetch url=\$fileUrl output=user as-value]->\"data\");\
@@ -39,7 +39,7 @@ add comment="mikrotik-dude-icons pack download script" dont-require-permissions=
     \n    # Loop through each image in the list\
     \n    :foreach image in=[ :deserialize [:tolf \$imgList] delimiter=\"\\n\" from=dsv options=dsv.plain ] do={\
     \n        # Construct the full URL for each image\
-    \n        :local imageUrl (\"https://raw.githubusercontent.com/danielcshn/mikrotik-dude-icons/main/images/\" . \$image);\
+    \n        :local imageUrl (\"https://raw.githubusercontent.com/HybridNetworks/mikrotik-dude-icons/main/images/\" . \$image);\
     \n        # Fetch the image and save it to the specified directory\
     \n        :local downloadResult ([/tool fetch url=\$imageUrl mode=https dst-path=(\$imageDir . \$image) as-value]->\"status\");\
     \n        # Check if the download was successful\
